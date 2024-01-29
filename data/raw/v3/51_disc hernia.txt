@@ -1,0 +1,23 @@
+AI: Hi there! How have you been feeling recently?
+
+Human: heya, i've been better. kinda been having a lot of back pain. Its like this constant ache, youknow?
+
+AI: I'm sorry to hear that. Can you describe a little bit more about this back pain? Where is it located and what does it feel like?
+
+Human: its mostly lower back, kinda sorta in the middle. It started out just annoying but now it actually really hurts. Sometimes it sends a real sharp pain down my leg too.
+
+AI: That sounds tough! The pain going down your leg, does it only occur when you do certain activities or is it fairly consistent as well?
+
+Human: um, definitely worse when i'm sitting for too long or god forbid i have to lift anything. But its kinda always there, just gets worse yknow.
+
+AI: I see. Does anything seem to help in easing the pain? Maybe like rest, exercise, or medication?
+
+Human: tried rest but that doesnt seem to do much, medicines only help a little bit, but not much. Havent tried exercising much because well it hurts.
+
+AI: Sorry you're going through this. Have you noticed this pain affecting your daily routine or mood in any way?
+
+Human: Yeah totally, can't do as much as would like to. Always worried i'll aggravate it. Feels like its taking over my life some days. Kinda gets you down.
+
+AI: That must be so challenging to deal with. How are you coping with the pain on days when it feels particularly intense?
+
+Human: S'just one of those things I guess, dont have much choice. try to relax, avoid anything strenuous. Its definitely not fun but what can you do...

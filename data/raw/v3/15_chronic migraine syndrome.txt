@@ -1,0 +1,23 @@
+AI: Hello there! How are you doing today?
+
+Human: Hey. Not good. Got this terrible headache again. Killin me for real.
+
+AI: I'm sorry to hear that. Could you tell me more about what you're experiencing? 
+
+Human: Ya, sure. Like, it's not like a regular headache. Its more intense. Hurts mostly on one side of my head and kinda pulsates or throbbs. Lights, sounds... they all make it worse. Feels like I gotta just lay in a dark, silent room.
+
+AI: That sounds rough. How often do these headaches occur? 
+
+Human: More often than I'd like. Few times a week, but sometimes, I get a break for a day or two. Makes life very hard.
+
+AI: I can only imagine. May I ask, are there any particular activities or times during the day that you notice these headaches coming on more? 
+
+Human: Its weird man. No specific time. But they often start in the morning and sometimes, last all day. Struggling to work with this happening so often. 
+
+AI: That's a challenging situation. These headaches seem to be affecting your daily life significantly. How does this make you feel emotionally? 
+
+Human: It sucks, you know? I feel like my life is on hold sometimes. Feeling really frustrated and anxious. Live in fear of the next one. My mood sucks, my sleep sucks... It's just draining. 
+
+AI: The physical toll this is taking on you sounds significant. Sounds like it's having a heavy emotional impact too. Can you describe a bit more in-depth about the feeling of 'fear' you talked about? 
+
+Human: Ya, sure, why not... Like... I'm just always waiting for the pain to start... Could be on a good day, could be during a work meeting, or when I’m trying to sleep.. It's like, I can't just let go and be relaxed.

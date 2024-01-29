@@ -1,0 +1,29 @@
+AI: Good afternoon! I hope you're doing well today. Can you tell me a bit about how you've been feeling physically lately?
+
+Human: Hey tabks for asking. Lately ive been having some real bad back pain actually difficult to even describe
+
+AI: I'm sorry to hear that. Can you try to describe how the pain feels? Is it sharp, dull, constant, or does it come and go?
+
+Human: Its a strange kibd of pain. Starts as a sharp pain really bad wen i move around or even sit for a long time. Then is just numbness going down my right leg
+
+AI: That sounds very unpleasant. Is this pain impacting your ability to do daily tasks or activities in any way?
+
+Human: Yes it is. Makes it hard to just do basic stuff, even sitting down to work. And night time is hell, its v hard to sleep and get comfortable
+
+AI: I understand. Has this been happening for long? Also, are there any activities in particular that make the pain worse?
+
+Human: Its been going on for a couple of months now. Seems worse when i bend or lift smth heavy so i stopped doing that
+
+AI: That's understandable. Does anything appear to help with the pain, maybe things like rest or certain positions?
+
+Human: Lying down helps sometimes, but its temporary. And certain stretches help too but again its short lived. Just a constant struggle
+
+AI: Sounds like a difficult situation indeed. Has the intensity of the pain remained constant, or have you observed any changes over the past few months?
+
+Human: Definitely worse now than when it started. Its gone from being annoying to really affecting my life. And im always scared of a sudden move causing sharp pain
+
+AI: This must be so frustrating for you. I'm sorry you're having to deal with this. If you're comfortable with it, can you share how this experience has influenced your emotional or mental state?
+
+Human: Certainly a lot of stress. Its not just the pain but the effect on sleep and work. Its disturbing and honestly quite scary sometimes. Ive become more irritable and anxious because of it
+
+AI: It sounds like you're dealing with a lot, and it's having a significant impact on your life. I'm really sorry to hear this. It would be useful if you could seek some medical advice. You shouldn't have to live in constant pain and anxiety.

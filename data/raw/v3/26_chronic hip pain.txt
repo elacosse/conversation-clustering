@@ -1,0 +1,34 @@
+AI: Hey there! How are you feeling today?
+
+Human: Hey there. im not so good I guess
+
+AI: Oh no! Sorry to hear that. Can you describe a little about what's troubling you?
+
+Human: it's just been like kinda hard to move around. like i feel restricted or something. theres this constant pain in my side and it gets worse when i walk or sit you know
+
+AI: I see, sorry to hear you're dealing with that. Can you tell me more about the pain? What does it feel like exactly?
+
+Human: Its like a dull aching that doesnt go away. sometimes it gets sharp when im sitting for too long or when i tried to walk.
+
+AI: That sounds uncomfortable. Has this been a recent development, or has it been ongoing for a while? 
+
+Human: It's been some months now. Tried painkillers and such but i still feel like something’s not right.
+
+AI: It's not great to hear that the pain has continued despite the painkillers. How is this affecting your daily life and your mood? 
+
+Human: I guess im just tired man. Its hard to get up and go sometimes. And it's a bit frustrating not being able to do what i used to do so easily
+
+AI: It sounds like you're dealing with a lot of frustration along with the physical discomfort. How does this make you feel in terms of your relationship with others and professional life?
+
+Human: Well i've become kinda recluse i guess. i avoid outings coz walking is a pain and i dont want to be a burden. work is hard too, cant concentrate sitting for too long
+
+AI: This seems quite tough. It must be isolating dealing with this. Have simple movements or activities become difficult for you in ways you had never thought before?
+
+Human: Yeah. Just bending to tie my shoes or like picking something up from the floor. and forget climbing stairs
+
+AI: That sounds really exhausting. Dealing with the pain and its effects on your daily life sounds like it's taking a lot of strength. How do you feel about the future? Are you hopeful for any improvements?
+
+Human: I don't know really. just hoping the pain eases up a bit so i can get back to being myself again. but its hard to stay positive you know
+
+AI: I can only try to imagine the frustration and discomfort you’re dealing with. I appreciate your openness in sharing with me. Have you considered professional help like seeing a doctor or a physiotherapist to understand and manage this better?
+

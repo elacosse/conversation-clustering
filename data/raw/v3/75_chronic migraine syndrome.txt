@@ -1,0 +1,23 @@
+AI: Hi there! I hope you're having a good day. Would you mind sharing with me how you've been feeling recently, both physically and emotionally?
+
+Human: Hi, Am doing okay I guess. I been having these rly bad headaches a lot. Its like pretty much all the time now, i guess it's getting worse
+
+AI: I'm sorry to hear you're dealing with those headaches. Could you describe your headaches to me in more detail? Like, where do you usually feel the pain and how would you describe the intensity?
+
+Human: It's really hard to explain.. it's not just normal headache. It's like my whole head's in a vise, mostly on one side. it really hurts above my eye and back of my head. Some days its so bad cant even look at my phone screen cause light hurts my eyes
+
+AI: That sounds really tough and it's understandable why you could be struggling with it. In addition to light sensitivity, have you noticed any other changes or symptoms that come with your headaches?
+
+Human: Yea sometimes when headache start, i get like this weird feeling in my stomach. And sometimes i see weird squiggly lines n all. Other times, its like loud noises make it even worse
+
+AI: I appreciate your courage in sharing these symptoms. It must be very challenging dealing with these experiences. Regarding daily life, how are these headaches and symptoms affecting your routines or activities you enjoy?
+
+Human: It's rly hard. I use to enjoy painting. But now it’s tough... my head hurts so much, can't focus. Job is also suffering cause it's hard to concentrate. I'm always tired, and staying asleep Is hard cause of pain.
+
+AI: It's clear that these headaches are significantly affecting your life. How are you managing this? Have you sought any kind of help or treatment for your symptoms?
+
+Human: Dunno really.. I take over-the-counter stuff when it's rly bad, but it doesn't rly stop it... just makes it a bit better for a little while. Haven't really told a doc about all these symptoms, Maybe I should..
+
+AI: It could potentially be useful to share these symptoms with a healthcare professional. They may be able to provide some insights or treatments that might help. But I understand it's a difficult step. Have you found any activities or strategies that give you a bit of relief, if even momentarily?
+
+Human: Sometimes, Being in the dark helps. Or when its really quiet. I try to breathe slowly or meditate.. that kinda helps too, a bit I guess

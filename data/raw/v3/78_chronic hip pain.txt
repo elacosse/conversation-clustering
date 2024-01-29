@@ -1,0 +1,29 @@
+AI: Hello there! How are you feeling today? You mentioned last time you were experiencing some discomfort. Can you describe to me what that feels like?
+
+Human: Hey... Yeah still not great. Hard to explain but just can't move like i used too. feels like theres stiffness in ma lower body
+
+AI: I'm sorry to hear that. Let's see if we can understand more. When you say stiffness, can you be more specific? Does it impact any particular area of your lower body more or is it a general feeling?
+
+Human: it's more on the one side mainly, i guess more dozen on th left? it's a constant ache like
+
+AI: I see, a constant ache on one side of your lower body. Does it get worse with any particular movement or at any specific time of day?
+
+Human: Yea kinda.. more intensive when I'm walkin or after long standin. Morning's pretty bad too, like I gotta take time getting out of bed and stuff
+
+AI: I appreciate you sharing this with me. It seems like the pain is really impacting your day to day life. How severe would you say the pain is, on a scale from 1 to 10, with 10 being the most intense?
+
+Human: Maybe like 7 or 8? somedays it's just there at the back and somedays it's all I can think abt
+
+AI: I can only imagine how challenging this must be. Can we explore this a bit more? When the pain is at its worst, what sort of thoughts do you have? And how does it affect your mood?
+
+Human: it's just frustratin... feelin like u can't do things u used to. Moodwise it's rough, feel down a lot of times and really tired too
+
+AI: It sounds really tough indeed. Not just physically, but emotionally as well. How have you been coping with these frustrations and low moods? Are there any strategies that you have been using? 
+
+Human: Jus take things slower i guess, tryin to not push maself too much. drivin more than walkin. Some yoga too, but some days m jus too tired to even try that
+
+AI: It sounds like you're finding some ways to adapt and cope with this change. Are these strategies working the way you'd hope, or is there something else you're longing for in terms of support or relief? 
+
+Human: Not really... feel like i'm jus managing it's not really gettin better. Hopin it would get better somehow but no idea how
+
+AI: That must feel concerning and even a bit overwhelming. Thanks for sharing so deeply with me. Please know that your feedback is incredibly important as it helps me understand what you're going through. It can also aid health professionals in providing you with the best possible care and support for this.

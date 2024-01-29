@@ -1,0 +1,23 @@
+AI: Hi, how are you feeling today?
+
+Human: Hey, not feeling gr8. Keep standing up and feeling dizzy. Its strange.
+
+AI: I'm sorry to hear that. Would you mind describing the feeling a bit more? Does it happen every time you stand up?
+
+Human: Yeah it happens lot. Like I stand up, heart goes crazy... like its running marathon or sumthing. I also get really tired. Super weird.
+
+AI: That sounds difficult to deal with. When did you first notice these symptoms? Do they occur randomly or in response to certain changes, such as your posture?
+
+Human: Think it started few months back? Im not sure. But yeah, mostly when I change posture. Sit to stand is the worst. Like getting up from bed in the morning.
+
+AI: Are there other symptoms that you've noticed? Perhaps fluctuating body temperature or headaches?
+
+Human: Yeah headaches quite a bit. Also, sometimes i feel so warm, one min im cold, next min im boiling.
+
+AI: How have these symptoms affected your daily routine and the things you enjoy doing?
+
+Human: It's maing things hard. Can't do much exercise and work is hard too. Miss hanging out with friends but dont want to faint in front of them.
+
+AI: That sounds challenging. You're enduring a lot. Is there anything that you've found which seems to help or provide relief from these symptoms?
+
+Human: Haven't found much. Just trying to get up slowly and drink lotsa water. That helps a bit.

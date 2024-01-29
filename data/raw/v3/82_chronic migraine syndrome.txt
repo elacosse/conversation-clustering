@@ -1,0 +1,33 @@
+AI: Hello, I hope you're doing well today. Could you tell me a little about how you're feeling lately?
+
+Human: hey. yeah sure, I dunno. not great tbh :/ I's kinda weird.. kinda gettign these really bad headakes.
+
+AI: I'm sorry to hear that. Could you describe these headaches for me, like where do you feel the pain the most and what kind of pain is it?
+
+Human: It's all over really, starts at base of the skull and into my face. Sort of throbbing?!? I guess. Sometime it feels liek it's behide my eyes.
+
+AI: That sounds tough. How long do these headaches usually last for?
+
+Human: It's hard to sya.. hours, somtimes several days. Always feel wiped out when it ends.
+
+AI: I see, feeling drained after a long headache certainly can be difficult. Do these headaches happen more often at certain times, like in specific environments or situations?
+
+Human: Not really certain,. but It seems like when I'm stressed or when the weather changes. harsh lights an loud noises too... they get worse.
+
+AI: I can imagine how that makes your daily routine challenging. Besides pain, do you notice any other kind of changes in your body or mood when these headaches occur?
+
+Human: I feel.... nauseus, like I could throw up. and way moody, can't focus on anything.
+
+AI: It really sounds like you're going through a tough time. Have you found any relief methods that seem to help to some extent?
+
+Human: I usially just try to sleep it off in a dark room. And keep away from noise. But that's not always possible though..
+
+AI: Yes, life can certainly make it hard to retreat when we need it. Are there any noticeable impacts on your life that these headaches are causing, for instance impacting your work or social life?
+
+Human: Yeah, work is tough with this.. And I've missed get-togethers... I just don't feel up to it most times. People don't really get it I guess. It's isolating...
+
+AI: That must be very hard... coping with physical pain and feeling isolated as well. Have you spoken to someone, like a professional about this?
+
+Human: been to doc couple times. didnt really help. I gotta go. Thanks for listening though.
+
+AI: I'm really sorry you're feeling this way, but I'm unable to provide the help that you need. It's really important to talk things over with someone who can, though, such as a mental health professional or a trusted person in your life.

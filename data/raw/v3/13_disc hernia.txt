@@ -1,0 +1,37 @@
+AI: Hi, I see that we haven't had a chance to chat before. How have you been lately? 
+
+Human: Hey AI! I've been, well, not so good actually... 
+
+AI: I'm sorry to hear that you're not feeling well. Can you describe how you're feeling or what you're going through?
+
+Human: Its complicated. I've just been in a lot pain past couple of months especially my back. 
+
+AI: I see. I'm sorry that you're experiencing that. Can you describe the pain? When did it start? 
+
+Human: It's a really sharp pain that shoots down my leg, sometimes. Started maybe two months back, no clue why tho.
+
+AI: Can you associate this pain with any specific activities or movements? Also, does the pain get better or worse at certain times of the day?
+
+Human: Yeah, oddly when I'm sitting or bending. for some reason its less painful when i lay on mi side... don't rlly get better but gets worse at night.
+
+AI: I can imagine that must be hard for you. Could you tell me more about how this is affecting your daily life and activities?
+
+Human: It's really affected my sleep, can't get comfortable. Sitting for long has become an ordeal. Honestly, it's just exhausting dealing with it all the time.
+
+AI: It sounds really challenging to go through physical discomfort and the impact it has on your daily life. Do certain things provide you any relief or make the symptoms worse?
+
+Human: Standing up and walking around a bit seems to help. But anything seems to aggravate it if I do it too long.
+
+AI: It's understandable that you're feeling exhausted. Pain can take a toll on us in more ways than just the physical. Do you have support or help in managing this discomfort?
+
+Human: I've been to my doc and tried some painkillers but not much relief so far. And my wife has been great, helping me wth chores and stuff.
+
+AI: It's good to hear that you have support. It's important to share and communicate about what you're going through. Have you seen any other changes or noticed something new along with the pain, like numbness, or tingling sensations?
+
+Human: Oh, yeah now that you mention it. I do feel a bit of numbness in my leg sometimes...
+
+AI: I see. It's helpful to be aware of such changes. How are you dealing with it emotionally? Pain can also impact our mood and outlook.
+
+Human: Yeah, been feeling really low recently. Getting frustrated that I can't do simple stuff without pain... 
+
+AI: It's okay to feel frustrated sometimes, but remember you are not alone. Reach out to your support system when you need to or speak to professionals for guidance. It's important to take care of your emotional well being as well as physical.

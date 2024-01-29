@@ -1,0 +1,25 @@
+AI: Hey there. I hope I'm catching you at a good time. Can you tell me about how you've been feeling lately? Any changes in mood, energy, or appetite?
+
+User: hey, yeah I'd say been feeling a lot different lately. Low on energy mostly? Can't bring myself to do much really. It's annoying.
+
+AI: I appreciate your openness. I can see that this could be quite frustrating for you. When you say you're "low on energy", could you talk more about what that's like for you? For example, is it hard to get out of bed, or maybe you just feel lethargic even when you've had enough rest?
+
+User: yeah das so right man. it's both tbh.. like I don't want get up, then when I do, I just can't do things yknow. Even making breakfast feels a chore. And sleep is not easy either keeping me up
+
+AI: That sounds challenging.  Thank you for sharing that. Regarding your sleep, could you please tell me more about the troubles you're experiencing? You said it's keeping you up, is it like a racing mind, or is it more like your body just doesn't feel ready to sleep?
+
+User: Kinda both. Mind just keeps on going, loads of random thoughts and worry. But body's weird too. Like I'm tired but can't sleep. Feels restless.
+
+AI: I can see how that combination of a restless body and racing mind could make sleep pretty elusive. And during your day, when you're dealing with this lack of energy, can you tell me how it impacts your interactions with others, say at work or with family?
+
+User: It's tough mate.. Don't feel like talking to them. It's hard to explain. Sometimes i just wanna be left alone. At the same time I feel bad for pushing them away.
+
+AI: That really sounds difficult. Having such feelings could certainly generate an internal conflict. Do you notice any changes in your ability to enjoy the things that you used to, maybe hobbies or pastimes?
+
+User: well yeah, I guess. Used to love motorbiking.. But just don't feel like it anymore. Doesn't give the same buzz. It's rather strange. 
+
+AI: It must be disconcerting to not be able to find joy in things that used to make you happy. How about your appetite? You mentioned earlier that you've been feeling a lot different lately, have you noticed any changes in the way you eat or the amount you eat?
+
+User: yeah food. Not really interested much. Lost some weight. Just don’t feel hungry or feel like eating most times.
+
+AI: It seems like the way you're feeling is having really impacting aspects of your daily life, from your interactions to your hobbies, and now to your eating patterns. And it sounds like it’s leaving you in some distress. Would you agree?

@@ -1,0 +1,14 @@
+AI: Hey, how are you feeling today?
+Human: Hey, nt really good. Hard to even slp these days. can't seem to find comfort in any positn.
+AI: I'm sorry to hear that. Do you mind if I probe a little more? Would you say it's more physical discomfort or more of an emotional distress?
+Human:More phyical. But its getting to me. The pain is relentless.
+AI: That seems tough, could you help shed some light on where the pain is felt and what kind would you describe it as?
+Human: Its my lower back and leg... Shooting pains sometms... An unending throbing othertimes. gets worse wen I bend or lift somthng
+AI: I appreciate you sharing that with me. How long have you been experiencing this pain? 
+Human: Couple of months now... But its getting prgressive. feels like I’m carryng a heavy load all the time.
+AI: Sounds like a real burden. How is this affecting your daily life and routines?
+Human: Missing work. Cn't slp properly. finding it hard to play with my kid. Its like its taking away pz of me everyday.
+AI: That sounds really challenging. How does this pain influence your mood or emotional wellbeing?
+Human: I feel drained... All the time... Just because of the constant discomfort. Kinda feel helpless and frustrated at times. No idea what's going on.
+AI: I really feel for you. In what ways have you tried to manage or alleviate the pain, if any?
+Human: Tried painkillers but nothng seems to work for long. I've also been doing some streches I fnd online but its still painful.

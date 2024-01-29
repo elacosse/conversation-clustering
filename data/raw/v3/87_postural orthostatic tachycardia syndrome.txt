@@ -1,0 +1,26 @@
+AI: Hey! Hope you're having a good day. Could you describe for me any health issues or strange feelings you've been experiencing lately?
+
+Human: hii yeah i habe been getting theswe weird issues. stand up too fast nd i feel fuzzy. sleeply and dizzy you knwo?
+
+AI: That doesn't sound comfortable at all, sorry to hear that. Can you tell me a little bit more about the dizziness and fuzziness? Where does it come from? How long does it last for?
+
+Human: i dont exactly knw where it cmes from. mostly feels like my blood rushing to my head maybe? it stays for a minute or two but i feel kinda ick for lomnger, maybe till i eat or drik something you know?
+
+AI: Wow, I can imagine that's a very strange and uncomfortable feeling. Do you get any other symptoms along with this? For example, shortness of breath, rapid heartbeat, chest discomfort?
+
+Human: yeah kinda! sometimes more like heart is racing but othr times i feel fine. it's just plaim weird. feel worst whn its warm, like hot weather is my enemy lol
+
+AI: Interesting how it’s more noticeable in warm weather. One more thing I'm curious about- have you noticed whether changing your posture, like moving from a lying down to a standing position, can instantly trigger these feelings?
+
+Human: well nw that u mntion it! ya standing up to fast triggers it. very starteling sumtimes. 
+
+AI: That does sound difficult to deal with. Thanks for telling me about it. Are you able to manage these feelings? Have you found anything that helps, like resting or drinking water?
+
+Human: ya chilling a bit helps. i usually sit dwn immediately. drinking water tht sort of thing seems to get me bck to normal. and eating! 
+
+AI: It's good to hear that you've found ways to manage it. Eating and resting can definitely help in such situations. Have you noticed a particular type of food helping more than others or is any food helpful during this time to get back to normal?
+
+Human: any food rlly but i think saltier stuff might make it less bad... Or maybe it's just comforting haha. Chips are the bomb.
+
+AI: Salty foods could certainly help with such symptoms! Overall, it's important to keep exploring what helps you feel better and more stable. Remember that you don't need to go through this alone and don't hesitate to share with us any changes you experience. 
+

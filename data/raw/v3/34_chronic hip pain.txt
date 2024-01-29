@@ -1,0 +1,25 @@
+AI: Hi there, I noticed you've been experiencing some discomfort recently. Could you describe what you've been feeling?
+
+User: Hey, yeah I've been feeling this dull ache, you know. It's been mostly around my lower side of the body. Gets worse when I am moving around or have been sitting for long.
+
+AI: That sounds difficult. Can you share more about when this pain tends to occur and if anything specific seems to trigger it?
+
+User: It mostly starts when I get outta bed in the morning. Feels somewhat better when I start moving but worse again when I sit too long or if I have to walk for a while. Seems to have no pattern though, it's weird.
+
+AI: I see. Could you tell me more about how this affects your day-to-day life? How are you managing with daily activities?
+
+User: It's been tough. I've had to cut down on my jogging, can't even play my Saturday football now. Even the walk to the bus stop for work is a strain on me these days. I dunno, it all kind of makes me feel slow ya know.
+
+AI: I'm sorry to hear it's been impacting your activities that much. What about on a personal level? Does it affect your mental state or your relationships?
+
+User: Yeah, it does. Makes me feel bit down really. As for my friends, they've been understanding, yet, can feel a bit left out now and then. Starts to feel like a chore to them, guess they just wanna enjoy. It's not their fault tho.
+
+AI: It's never easy when physical discomfort starts to affect our social life. Are there any ways you have found that provide you with some relief from this discomfort?
+
+User: Well,
+
+‘ve been using a hot water pack, kind of helps. The warmth seems to ease it a bit. I also started doing some light stretching my doc told me bout. But those are like a temporary respite, doesn't really help for long.
+
+AI: It's great that you're trying various methods to alleviate the discomfort, even if it's temporary. Moving forward, is there anything in particular that you're apprehensive about due to this condition?
+    
+User: Just don't want it to get worse I guess. Already missing out on a lot. Quite worried about the future, really. Will I be able to keep up with my work, or stuff like trips with friends. Dunno..

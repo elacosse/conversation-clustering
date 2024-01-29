@@ -1,0 +1,5 @@
+AI: Hello! How are you doing today?
+
+Human: Hi! I'm okay, just dealing with a really painful headache at the moment. It's been bothering me for a while now, and I'm not sure what to do about it.
+
+AI: I'm sorry to hear that you're experiencing such discomfort. Headaches can be quite challenging to deal with. Can you please describe the type of pain you're experiencing?

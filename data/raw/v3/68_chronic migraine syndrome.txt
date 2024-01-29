@@ -1,0 +1,29 @@
+AI: Hi there! Thanks for taking the time chat with me today. How are you feeling right now?
+
+Human: Hey! Np, im here with a bit of time. Im not great actually. head hurting again but nothing new lol
+
+AI: I'm sorry to hear that. Can you tell me a bit more about this headache? Is it something that happens often?
+
+Human: yeah, i mean its not everyday but feels like its most of the time. feels like its always there lurking at the back of my mind if that makes sense?
+
+AI: That does make sense and I'm sorry to hear you're feeling this way. Can you tell me more about what the pain feels like? Does it manifest in a particular part of your head or move around?
+
+Human: oh it’s like all over mostly, but sometimes feels like its throbbing at my temples. gets worse with noise n light too. bit weird i guess
+
+AI: That doesn't sound weird at all. In fact, it's very useful information. With this pain, do you notice any other symptoms? Maybe something like nausea or having disturbances in your vision?
+
+Human: Sometimes, yeah like I feel sick or things just seem blurry. Makes it hard to focus on stuff and I just wanna go lie down in the dark
+
+AI: What typically helps you alleviate these feelings?
+
+Human: ibuprofen normally helps, or just sleeping. but its hard when im at work and can't take a break :(  
+
+AI: That sounds really challenging, I'm sorry to hear it's disrupting your life like this. Are there any triggers you've noticed? Like something that might induce these episodes? 
+
+Human: dunno, they just come on. stress prolly doesn't help but seems nothing specific i can pin down. seem pretty random mostly
+
+AI: Living with this uncertainty must be difficult. Have you noticed whether these episodes influence your mood or your daily routines?
+
+Human: it messes with everything, yeah. Hard to get excited bout stuff or concentrate. Feels like i’m living under a cloud or something.
+
+AI: It really sounds like this is a substantial burden for you. Please consider speaking to a healthcare professional about these recurring symptoms you described. They could provide you with some help and direction. Thank you for sharing so much with me today.

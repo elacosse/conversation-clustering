@@ -1,0 +1,31 @@
+AI: Hello, how have you been doing lately?
+
+Human: Hey, thenks for axing. It's bin a bit rough lately. Just not feeling 100%.
+
+AI: I'm sorry to hear that. What kind of symptoms you're experiencing, could you elaborate a bit more?
+
+Human: Oh, you know its a kind of constnt feeling... like my head is wrapped in a vice... hurts pty bad. Som days I find difficult to thinking clear.
+
+AI: That sounds very challenging. Could you tell me more about these headaches? How often do they occur, and how long do they typically last?
+
+Human: It is very chalinjing indeed. Uh... its hard to track but its like most days of the week. It cld last the entite day... somtimes even till next morning. 
+
+AI: And these headaches, do they come suddenly or do you notice anything that triggers them? Does anything bring relief?
+
+Human: can't reali pin it on anything specific... just happens. Tried rest taday in dark room, helps a little i guess.
+
+AI: It sounds like you're dealing with some heavy stuff. I appreciate you sharing with me. Can you tell me a bit more about how this has been affecting your day-to-day life?
+
+Human: it's dificult to concentrate... work is getting harder. My mood has ben off too. Fmily getting a bit worried. 
+
+AI: It must be tough dealing with this while trying to keep up with daily routines and responsibilities. 
+
+Human: Yea... It’s like I’m living in a bubble, everything’s muffled. It’s tough man but…it’s life I guess. 
+
+AI: That sense of being in a bubble must be quite overwhelming. How does it impact your interactions with others?
+
+Human: I feels like I am zoned out half of the time. It's tiring trying to be 'normal'. Don't want ppl to worry too much.
+
+AI: It definitely sounds like a struggle, but please remember that it's okay to let people in and share your pain. Have you consulted a specialist about these frequent and enduring headaches?
+
+Human: Yea but the meds he gave me aren’t working that great and im tired of bouncing from doc to doc.

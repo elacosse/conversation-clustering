@@ -1,0 +1,23 @@
+AI: Hello there! If I may ask, how are you feeling today?
+
+Human: Hey. Idk not great tbh.. I've got this headache that just won't let up. 
+
+AI:  I'm sorry to hear that you're not feeling well. Can you tell me more about your headache?
+
+Human: Yeah, like I get these severe headaches y'know. They come and go, but when it hits it hits hard. More like a throbbing pain on one side of my head. Sometimes it's there for hours, sometimes days even.
+
+AI: That sounds very challenging. How frequently would you say you experience these headaches?
+
+Human: Pretty much evry day, things get so bad at times, i have to lie down and sit still in the dark coz any sound or light just make it worse.
+
+AI: Oh, that sounds very difficult to cope with, especially on a daily basis. Have you noticed any other symptoms that accompany these headaches?
+
+Human: Yeah, kinda weird i know but usually get all nauseous and sometimes even throw up with these headaches. Sight gets blurry too on the worse days. 
+
+AI: It's not weird at all, your experiences are important. These sounds like very severe symptoms. How do they impact your daily life, if I may ask? 
+
+Human: They just mess things up. Work, social life, sleep. Cannot focus, am always tired. Light and sound are like my enemies now.
+
+AI: It sounds like these headaches are having a significantly negative impact on your life. I genuinely empathize with what you're going through. Could you perhaps share any coping mechanisms that you have found to be helpful? 
+
+Human: Not much really does help. Going to a dark, quiet room, trying to sleep it off...tried some pain meds but doesn't always work always. Sometimes cool cloth on forehead feels bit better.

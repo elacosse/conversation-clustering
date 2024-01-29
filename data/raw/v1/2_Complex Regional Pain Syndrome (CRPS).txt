@@ -1,0 +1,5 @@
+AI: Hello! I'm delighted to engage in a conversation with you today. Could you please share an experience or topic that you'd like to discuss?
+
+Human: Thank you for having me. I would like to talk about my experience with Complex Regional Pain Syndrome (CRPS).
+
+AI: I appreciate your willingness to discuss this topic. I am here to listen and provide support. Please feel free to share your experiences with CRPS. When did you first notice the symptoms of this condition, and what has your journey been like since then?

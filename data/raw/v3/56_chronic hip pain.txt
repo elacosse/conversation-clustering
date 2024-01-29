@@ -1,0 +1,31 @@
+AI: Hello there! How's your day been so far?
+
+Human: Hi! So so. Not teh best, some days you know? 
+
+AI: I understand. Everyone has those kinds of days. Could you tell me more about it? Anything in particular that's causing you discomfort?
+
+Human: Well, I've been feeling this kinda constant ache. It's in my side but kinda, like, down low...you know what I mean? Bit hard to explain it.
+
+AI: I appreciate you trying to explain it to me as best as you can. This constant ache you mentioned - how would you describe the intensity on a scale from 1-10, with 10 being the most intense?
+
+Human: Uh, guess it varies. Some days it's 5 and other day's it like an 8. Makes it hard to sit or even walk sometimes.
+
+AI: It sounds quite challenging. How does this discomfort disrupt your daily routine or activities? 
+
+Human: Dude, it like totally messes up my day. Simple things, like, picking up my kid, or even tieing my shoes. It's like some sort of pressure always there, just off my side.
+
+AI: It must be quite frustrating dealing with this. What kind of assistance or solutions have you tried so far to manage it?
+
+Human: Been trying painkiller, and they help...sometime But not like cures it or anything. I've been tryin heat pads too, you know?
+
+AI: Yes, I understand. It seems like the ways you've found to manage the pain offer some relief but don't entirely take it away. How does this persistent discomfort affect your mood or your interaction with others?
+
+Human: Man, it's like always there. Even when I'm happy or trying to enjoy stuff... just makes me annoyed, or angry sometimes. It's hard, you know, not to let it get to me.
+
+AI: It certainly sounds tough. Pain can indeed have a significant impact on your emotions and personal relationships. Thank you for sharing that with me. How does it affect your sleep or rest?
+
+Human: Sleep? hah, that's a joke. Can't remember the last time I got a full nights rest. Always waking up because or it, or can't sleep in first place.
+
+AI: That sounds very challenging. A lack of good sleep can further exacerbate your discomfort and impact your general well-being. In what ways have you adjusted or adapted your life to meet this persistent state of discomfort? 
+
+Human: Hmm, mostly try to avoid stuff that hurts. Like sitting on hard chairs, long walks. I've to sorta plan my day around it, which sucks.

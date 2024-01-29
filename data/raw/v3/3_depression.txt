@@ -1,0 +1,37 @@
+AI: Hello. I hope you are having a good day. Could you tell me a bit about what you've been feeling or experiencing lately? 
+
+Human: Hey, so, uhm, it's hard to explain. I guess, I just don't feel like myself these days. Just no energy, ya know?
+
+AI: I see. Could you go into greater depth about the lack of energy? Is it like physical fatigue or more like a lost motivation to do things?
+
+Human: More like the second one I guess, everything just seems pointless. Nothing's as fun as it used to be.
+
+AI: I understand. That sounds rather tough. Would you say this feeling affects your day-to-day activities or maybe even interests you once enjoyed?
+
+Human: Yeah, for sure. Dont really have much interest in anything anymore. Forgot what it's like to be excited about stuff.
+
+AI: That sounds difficult. Are there specific times when you find these feelings to be more intense or is it constant throughout the day?
+
+Human: Well, mornings are especially bad but it's pretty much a constant thing.
+
+AI: I appreciate your honesty. It seems like you're encountering really challenging emotions. Can you recall when you first started noticing these feelings? Did they appear suddenly or gradually?
+
+Human: Not sure really. I guess it's been a while. Wasn't that bad at first but it's getting worse over time.
+
+AI: That's quite a heavy burden to carry. Besides lack of interest and constant fatigue, are there other feelings or thoughts that you find yourself dealing with regularly?
+
+Human: Sometimes, I just can't help feeling like a burden, everything seems just gloomy.
+
+AI: I see. This must be really challenging for you to cope with. And this feeling of being a burden, does it affect your relationships with others?
+
+Human: Yeah, sorta. But it's more like, I don't want to bother them with my problems, you know?
+
+AI: I understand. It's tough feeling this way and not wanting to impact those around you. Have you noticed any changes in your appetite or sleep patterns?
+
+Human: Hmm, now that you mention it, sleep's been pretty messed up, and I haven't been eating much either.
+
+AI: Would you mind describing how you've been sleeping? Like, is it difficult to fall asleep, or do you find yourself waking up in the middle of the night?
+
+Human: Both, actually. And I've been having trouble focusing too.
+
+AI: You've already shared so much, thank you. I can see these experiences you're going through are really pervasive and affect many aspects of your life. You are not alone in this, and I'm here with you. We will keep exploring and understanding more about what you're going through together.

@@ -1,0 +1,21 @@
+AI: Hi there! Hope you're doing well today. I understand there are some health concerns you've been dealing with lately. Could you possibly describe what you're experiencing?
+
+Human: Hey, yea im not great actually. I been feeling dizzy a lot, like when i stand up mostly. Then my heart starts racing like Ive been running but i havent. Its weird, and really uncomfortable.
+
+AI: I see, that does sound disconcerting. Are these symptoms happening consistently when you stand up or are there some instances when they don't occur?
+
+Human: Yea, pretty much everytime I get up. Sometimes i get a bit light headed just sitting too. Ive been lying down a lot recently cause that seems to help.
+
+AI: Understood. And when you mention your heart races, can you describe what that feels like a bit more? Is it just a fast heartbeat, or are there other physical sensations associated with it?
+
+Human: well my heart feels like its beating super fast, it kind of pounds? Sometimes I get headaches and feel really hot. or i can't focus. its all so strange.
+
+AI: That must be very disorienting for you. Thanks for sharing those details; it helps me understand more about what you're going through. Apart from lying down, have you found any other ways to alleviate these symptoms?
+
+Human: well drinking lots water helps sometimes. Also it's weird but eating more salt makes me feel better a bit. Doc told me to do this but didnt explain why really.
+
+AI: That's interesting about the salt, and staying hydrated is always fundamental. How about your emotional and mental state throughout all this? How have you been coping?
+
+Human: Its been hard. Im tired most days and been feeling down cause i cant do things i used to. Its like im stuck in my own body, you know? Makes me kind of anxious. 
+
+AI: That does sound really tough. It can be a heavy burden when daily life is altered this way. I'm here to listen, though, so don't hesitate to share when you need to. Making sure to open up about these feelings is a key part of dealing with any health issue.

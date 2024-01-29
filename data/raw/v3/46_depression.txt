@@ -1,0 +1,21 @@
+AI: Hello! It's nice to connect with you today. I wonder if you could tell me a bit about how you've been feeling lately.
+
+Human: hey, um... tnx 4 asking. suppose I've been feeling kinda off. like im always tired, bored i guess, but idk...
+
+AI: I see, thanks for sharing. Could you tell me more about this feeling of being tired and bored? Do feelings seem generally less intense or pleasurable for you these days?
+
+Human: yes definatly... its like nothing matters much, al the things I liked don’t seem to do it anymore for me. kind of empty. thats how it feels i gues...
+
+AI: Thank you for your honesty. Can you describe this feeling of emptiness a little more? Are there certain instances where this feeling is specifically pronounced?
+
+Human: Always. like its becom part of me... even when im with friends or doing something i used to enjoy... still feels like somthins missing in me. i cant put my finger on it. 
+
+AI: That sounds like it's really weighing on you. How is this feeling influencing your daily life or routines? Do you find it easy to get up and go about your day? 
+
+Human: No, everythng feel so heavy... like simple things, like brushing teeth or making food. i keep forgeting things too. id rather just lie in bed all day.  
+
+AI: It sounds like these feelings and their impact on your daily activities can be quite challenging to manage. How have your sleep and appetite been affected?
+
+Human: sleeps weird, either i cant get any or i get way too much. not eating much... food just doesn't taste as good. I dont know whats going on with me. 
+
+AI: I can see that you're going through a tough time. It's okay not to have all the answers. Would it be okay if we kept discussing this? Perhaps together we could begin to understand what’s happening.

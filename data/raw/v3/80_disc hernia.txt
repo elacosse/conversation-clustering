@@ -1,0 +1,17 @@
+AI: Hi there, I hope you're having a good day. I've noticed you've reached out, how can I assist you today?
+
+Human: hey im doing ok... i guess... but ive been havin this ache in my lower back and it kinda goes to ma leg. it's just strange.
+
+AI: That doesn't sound very pleasant. When did you first notice this? Can you also describe the type of pain you feel in more detail?
+ 
+Human: like umm 3 wks ago maybe....? and the pain, hmmm its like a dull ache most of times in my back. but sometimes it gets this shooting thing... and i gotta say dat hurts a lot. Not used to sit or stand for long either, it worsens it. 
+
+AI: That sounds concerning, it seems like you're dealing with a considerable amount of discomfort. How has this been affecting your day-to-day activities and your overall mood, would you say?
+
+Human: it's tough, you know? I mean i gotta take breaks now when i'm workin or even just doin home stuff. Moods kinda up and down, mostly cause i aint sleepin much, which’s frustrating. I hate being held back, you know...
+
+AI: It's understandably difficult when discomfort affects your daily routine and sleep. How about your social life and interactions? Is the pain influencing those aspects as well?
+
+Human: well ya know, with covid and all not hanging out much at all. But yeah, kind of drains me and I don’t feel like talkin or anything. Just wish someone could tell me what's wrong...
+
+AI: I hear you. These experiences of pain and discomfort can indeed be isolating and overwhelming. Just know that it's okay to reach out and share about what you're going through. That said, have you considered seeking medical attention? Professional help can often provide a better understanding of what you may be experiencing.

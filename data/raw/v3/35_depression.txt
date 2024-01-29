@@ -1,0 +1,25 @@
+AI: Hello, can you share with me what you're feeling right now?
+
+Human: Hey, umm..I dunno exactly...just feel really low, y'know? feels like I'm trapped somwhere dark... and it's weighin down on me all the time.
+
+AI: I see, it sounds like you're going through a tough time. Can you tell me more about this feeling of being trapped? Is this a new sensation or something you've felt for a while?
+
+Human: It’s been there long as remember, just won't leave. some days its s bearable, others it just sucks the life outta me...I just can't get outta my own head y'know
+
+AI: Thank you for sharing that with me. You mentioned that it feels very dark, could you explore that description more for me? Is it always the same kind of darkness you're referring to?
+
+Human: Sure, not really always the same, just sort of overwhelming at times. It’s constant, depends, sometimes it's quiet dark, sometimes its loud. It's hard 2 explain...starts off like shadows then engulfs me wholly. Makes me feel empty, like a void, and a bit scared...
+
+AI: It sounds tough to experience such waves, fluctuating from quiet to an overwhelming dark. Do you find that there are certain situations or moments that trigger the waves? Or are they seemingly random?
+
+Human: Mostly they feel random, but they get much worse when I'm stressed, or if something bad happens, but sometimes there's npthing really...just hits me
+
+AI: I see, that must be quite a challenge to navigate. Can you share with me more about how this feeling affects your daily life? Perhaps your work, your relationships, or hobbies you usually enjoy?
+
+Human: Dunno, just hard to focus or even get out of bed... Forget work or hobbies, it completely drains me, can barely keep up with life. Judt feel so tired all the time...like I'm carrying a huge weight
+
+AI: Thank you for sharing that with me. You mentioned it's hard to focus and maintain normal life activities like work or hobbies. What about social interactions? Do they affect this feeling or maybe the other way around?
+
+Human: Yeah... I guess I do feel worse when I'm alone but i feel like I can't be around people too. they don't get it, makes it harder. Something they say drives it unreal...don’t think they even realize that though
+
+AI: That sounds like a difficult and lonely experience. Is there anything you do that helps you with these feelings, even if just a little?

@@ -1,0 +1,29 @@
+AI: Hi there, I hope I'm not interrupting anything. I noticed you've been feeling unwell lately. Can you describe what you've been experiencing? 
+
+Human: Hey. Im not sure.. U know when you have a really bad headache? It's continually like that but worse. I think it's a headache but it's always there.
+
+AI: I'm sorry to hear that you're going through this. Could you please describe the headache a bit more? Where is it located and what does it feel like?
+
+Human: It's kinda hard to explain. Feel very intense at times, like a throbbing pain. Mostly on one side of head. Lights and sounds are irritating too..
+
+AI: That sounds extremely difficult, both physically and mentally. Do you notice any other symptoms besides the pain and sensitivity to light and sound?
+
+Human: Well, I'm always tired. Like, really wiped. N sometime I get sick, which is horrible.
+
+AI: That's tough. Does this condition interfere with your daily activities and work? 
+
+Human: Yeah it does. Sometimes I can't do anything. Just want to usually lie down in a dark room. It's just frustrating feeling this way. 
+
+AI: I can imagine how frustrating and limiting this must be. You mentioned feeling very fatigued. Does the fatigue coincide with the headache or does it seem to be independent of it? 
+
+Human: It's kinda all one big mess... the tireness, the headaches, always seem to come together I guess.
+ 
+AI: I'm sorry to hear about your struggle, sounds very challenging. How does it feel emotionally? How are you coping with this?
+
+Human: It sucks tbh. Im just trying to manage I guess.. don't really have a choice. I have good days and days that are not so good.
+
+AI: I appreciate your honesty in sharing these experiences. It can be helpful to talk about these things. Do you have any strategies that you've found help in relieving the headaches, even if it's temporary?
+
+Human: Not eating certain food helps little bit. And rest in quiet room is usually all i want. It doesn't always work tho but it's something.
+
+AI: Thank you for sharing. Sounds like you’re trying hard to manage this the best way you can. It may not be easy, but your efforts are commendable. I'm here to provide support and help you navigate through this.

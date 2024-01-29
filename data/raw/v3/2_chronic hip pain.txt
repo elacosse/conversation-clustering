@@ -1,0 +1,21 @@
+AI: Hi there, I hope you're having a good day today. Can you share with me some experiences or areas in your life where you're finding discomfort or difficulty?
+
+Human: Hey ther. I'm gd. Just having some trouble wth my day to day stuff. Like I'm always tired when I stand too long.
+
+AI: Hmm, I understand that's a bit difficult. Can you describe further how this tiredness feels especially when standing?
+
+Human: Um, it's kinda like this dull aching. It's not necessarily my legs tht hurt, it's more around my waist area. Like I just want to sit down all the time you know
+
+AI: Sorry to hear this. You mentioned a "dull ache" around your waist area. How often do you experience this and does it change intensity or spread to other areas?
+
+Human: It' there pretty much all the time when I stand or walk. Intensity... I guess gets more pronounced with the amount of movement. Sitting helps tho. Soreness doesnt really spread, mostly stays around the same area.
+
+AI: It sounds like it's significantly impacting your mobility. Are there any other effects? For example, does it affect your sleep or mood?
+
+Human: Yes, sleep has become difficult. Sometimes can't find a comfortable position to lie down. And I get annoyed easily, maybe because of this constant discomfort.
+
+AI: I see. This sounds difficult to contend with indeed. Have you observed any specific elements in your day-to-day life that make this discomfort worse or better (like specific activities, food, weather)?
+
+Human: Well, tried gym for a bit but that made it worse tbh. Warm baths help a bit, and so does rest, but can't rest all the time you know. Haven't noticed any specific food or weather effect.
+
+AI: Thank you for sharing this in-depth look into your day-to-day experiences. Noticing these small yet impactful instances is very helpful. One last question, how does this pain shape the way you perceive your body when you're going about your daily tasks?

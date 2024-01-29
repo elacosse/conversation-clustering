@@ -1,0 +1,19 @@
+AI: Hi there! I noticed you've been feeling not quite like yourself lately. Can you tell me more about what you're experiencing?
+
+Human: Hey, yeah.. bit of  a mess actually... I've been kinda dizzy alot, and it's like i just cant stand for long before my heart starts racing, u know? Really strange and didn't happen before.
+
+AI: I see. That sounds quite uncomfortable and troubling. Can you describe in more detail what it feels like when your heart starts to race? When does this typically happen?
+
+Human: Hmm... it's like hyperfast, you get me? Like I've just ran a marathon or smth. It happens almost everytime when i stand up... felt weak and lightheaded even fainted a few times...
+
+AI: I'm sorry to hear how distressing this is for you. When you faint, is it immediate upon standing or does it happen after a few moments? How long does the feeling of weakness and lightheadedness typically last for you?
+
+Human: Not immediately mostly but yeah after a few moments.. maybe lasts like... dunno half-hour? Or even more sometimes...
+
+AI: Thank you for sharing this. You mentioned that you get dizzy a lot as well. Is the dizziness also related to standing or does it happen at other times too?
+
+Human: it's mostly with the standing thing... but sometimes even when im just sitting.
+
+AI: I understand. This must be really hard to deal with. Have you noticed anything that seems to help, even if only a little?
+
+Human: not really... tried a bit of everything... more water, more salt, less exercise.. dunno what's going on but I hope it gets better soon...

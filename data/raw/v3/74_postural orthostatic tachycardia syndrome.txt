@@ -1,0 +1,27 @@
+AI: Hi there! I hope you're doing well. I heard you've been dealing with some health issues lately. Could you describe what you've been experiencing?
+
+Human: Hey. Yeah, um, it's weird. Lot's of dizziness and stuff. Stand up and feel like I might pass out sometimes. Even when just get out of bed.
+
+AI: I see, that sounds tough. When did you start noticing these symptoms? Is there a specific time or situation when these sensations of dizziness intensify?
+
+Human: I dunno exactly but last few months maybe? It's worse in the morning, with getting up and all. And if I stand for long time. The weirdest part isn't just feeling dizzy tho. It's like my heart is...racing? I go up the stairs and it's like I ran a marathon.
+
+AI: I can only imagine how challenging these symptoms make everyday activities. Would you say there is a correlation between the racing heart and the dizziness? 
+
+Human: Yeah, I guess. they seem to happen together. Stand up and bam, dizzy and heart feels like it's in overdrive. Doctors just seem confused when i tell them. it’s frustrating.
+
+AI: I understand how you feel, it's not easy when you don't have the answers you need. Have you noticed any other symptoms? Perhaps fatigue or difficulty concentrating?
+
+Human: Tired all the darn time. Brain fog, can't seem to think straight, all sorts of stuff. Just don't feel 'right' you know?
+
+AI: That indeed sounds like a challenging combination of symptoms. I'm here for you during this difficult time. Now from my understanding, all the symptoms—dizziness, racing heartbeats, fatigue, brain fog—are usually present at once. But what if you try to sit down or lie down when you feel them, does it make any difference?
+
+Human: Yeah, lying down does seem to help a bit. Or sitting at least. That's why mornings are so hard I guess. Sitting isn't too bad but the moment I get vertical, there's all this nonsense.
+
+AI: It must be difficult to adapt to these changes in your daily life, but I'm glad to hear that modifying your position provides some relief. What about your diet and fluid intake? Have you noticed any correlation with them and any changes in your symptoms?
+
+Human: I mean, not that I can think of... been trying to eat healthy and drink plenty but nothing really changes it. Still gotta stand up sometime and that's when things suck.
+
+AI: Is there anything in particular that has helped you cope with this? Any routine, method, or even just a thought that brings you some relief?
+
+Human: Not so far, just lotsa rest and sitting when i get to dizzy. I try to tell myself it'll pass. Not easy tho.

@@ -1,0 +1,25 @@
+AI: Hi, Hope you're doing fine. Would you mind sharing a bit about how you've been feeling lately? Any ups and downs, changes or challenges you want to talk about?
+
+Human: Hello, well, things r not really good, m feeling down most of the time. it's kind of hard to explain.
+
+AI: I'm sorry to hear that you're going through a tough time. Can you describe what you mean when you say you're feeling 'down'? What does it feel like?
+
+Human: like.. i don't know. i'm just not really excited about anything you know. its like I'm stuck n not really in mood to do things. even the stuff i used to like seem dull now, not sure y
+
+AI: That sounds quite tough, feeling stuck and losing interest in activities you previously enjoyed. Apart from that, do you find this feeling affecting other aspects of your life, like your ability to sleep, eat or concentrate on day-to-day tasks?
+
+Human: yeah, sleep is messed up, either i sleep a lot or not at all. food is kinda meh. hard to concentrate at work sometimes.
+
+AI: Thank you for sharing that with me. It sounds like your feelings of being 'down' are having a significant impact on various aspects of your life. Are these feelings constant or do they come and go? Do you ever have moments where you feel okay or even happy?
+
+Human: it comes n goes but mostly it's there. i feel ok sometimes but it's rare and it doesn't last long. it's just tough
+
+AI: I can see that you're experiencing a lot of difficulty and it feels like these down feelings are dominating. Do you ever feel more than just down? Like, emotionally empty, or sometimes like there's an intense feeling of heaviness within you?
+
+Human: Yeah, that's it. its feels heavy n empty. 
+
+AI: I realize this can be a quite overwhelming experience for you. Is there anything else that you've noticed that might be linked to these feelings and experiences? Like any changes to your social or personal life?
+
+Human: dunno, don't feel like hanging out with friends much anymore. So guess m more alone these days, prefer it that way i guess
+
+AI: It sounds as if these feelings are leading to you withdrawing a bit from socializing. I’m really sorry that you’re feeling this way, but I’m unable to provide the help that you need. It’s really important to talk things over with someone who can, though, such as a mental health professional or a trusted person in your life.

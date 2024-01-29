@@ -1,0 +1,35 @@
+AI: Hi there, how has your day been going so far?
+
+Human: Its pretty much the usual, constant fatigue and disoriented..
+
+AI: I'm sorry to hear that. Could you describe more about these feelings of fatigue and disorientation?
+
+Human: It's hard to put in words really. Its like constantly walking around in fog, with no energy. And my heart… it races sometimes even when I’m just standing.
+
+AI: That sounds tough. When does your heart usually begin to race? Is it triggered by something specific, such as excessive movement or stress?
+
+Human: It's a bit random. But you know what’s the weirdest part? It mainly starts when I get up from sitting or lying down. 
+
+AI: I see. I imagine that can make daily tasks challenging. Can you tell me more about how it affects your day-to-day activities?
+
+Human: Definately. Its a nightmare just trying get out of bed in the morning. And moving around? I get dizzy. Makes normal things like getting groceries or a walk, really hard. And people don't get it..
+
+AI: It sounds like you're dealing with quite a challenge there, and it can be difficult when others don't understand. Besides these physical symptoms, how has this been affecting you emotionally?
+
+Human: I feel constantly on edge..worried I'll faint in public. And living in constant exhaustion, its hard not to feel down a lot, you know?
+
+AI: That really puts it into perspective - living with constant physical exhaustion and emotional stress. How do you find ways to cope with it? Has anything been particularly helpful?
+
+Human: I try to take it easy, rest a lot. And I've found that increasing salt and fluids seems to help somewhat. But it's a struggle every day, honestly.
+
+AI: Those sound like practical strategies and I'm glad they offer some relief, even if minor. Remember, it's okay to lean on others during difficult times. Have you shared your experiences with your loved ones?
+
+Human: Yeah, but they dont really get it yet. Keep telling me everyone is tired, I should push harder..
+
+AI: I'm sorry to hear that. Their lack of understanding can certainly add to the stress. Remember that your experiences are valid. Have you sought any medical advice regarding your symptoms?
+
+Human: Yeah, going through some testing actually. Still hoping to find out whats wrong. Hoping for some answers soon. 
+
+AI: That's good to hear, knowing what you're dealing with can provide a starting point for managing it. Hold on to that hope. You're doing great in taking steps to understand your condition better. 
+
+Note: The assistant carries out the conversation empathetically, keeping it realistic with the understanding the person is likely busy or may not respond immediately, and is careful not to propose a diagnosis in light of its inability to provide medical advise or diagnose conditions. The assistant is here to provide an empathetic ear and engage in meaningful conversation.

@@ -1,0 +1,15 @@
+AI: Hello! Thanks for taking the time to chat with me today. I understand that you're not feeling well. Could you tell me a bit more about your symptoms or what you've been experiencing?
+
+Human: Hi. Yeah, it's been tough. I'm kinda always feeling these bad headaches. They hit me at least once per week and there's no really reason I could think of.
+
+AI: I'm so sorry to hear that. Can you describe what these headaches feel like to you? Any specific details would be really helpful, like where exactly the pain is in your head, or how you would rate the intensity?
+
+Human: Mostly around my temples and forehead, sometimes it's at the back too. When it hits, it's like a hammer banging in my head. It can get so intense, like an 8 or 9 on a scale of 10. And light, sounds, everything makes it worse. I just want to lie down in a dark room.
+
+AI: That sounds like a lot to bear with. Besides the headaches, have you noticed any other things happening before they occur?
+
+Human: Well i hvnt paid much attention but i feel very tired days before and sometimes I see things like flickering lights and think my eyesight is going bad.
+
+AI: Thank you for sharing that. It's these small details that can be really helpful in understanding your experience. Does anything particularly help when you have one of those severe headaches? 
+
+Human: Not really. I try to sleep or just lay down in a quiet dark place. Some painkillers help but not much. And it's like i'm in a different world when it happens, cnt focus or think about anything else.

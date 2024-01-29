@@ -1,0 +1,5 @@
+AI: Good day! How are you doing today? I'm here to have a chat with you. Is there anything specific on your mind that you would like to talk about or share?
+
+Human: Hi! Thank you for reaching out. I've been struggling with something lately, and I could really use someone to talk to. It's about this thing...anxity...I'm not sure how to spell it.
+
+AI: I'm here to listen and support you. Anxiety is actually what you meant to type, and it's something many people experience. Can you tell me a bit more about what you've been going through? How does anxiety affect you in your day-to-day life?

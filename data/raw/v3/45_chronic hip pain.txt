@@ -1,0 +1,35 @@
+AI: Hi there, how are you feeling today?
+
+Human: Hey, not so good actly. it's like there's sumthing there alwys bthering me.
+
+AI: I'm really sorry to hear that. Can you tell me a bit more about what’s bothering you?
+
+Human: yeah..it's like, u knw, constant discomfort? mostly whn I am walkin or standin a bit too long. hurts in my lowr body
+
+AI: That sounds really tough. Would you tell me more about the pain you are experiencing? 
+
+Human: mmm its like.. deep insid I guess? and then thre’s this sort of dull ake, and sometimes evn sharp pain... Espcially if I sit for too long and try to stand up, you knw?
+
+AI: I see, that does sound difficult. Can you describe how this affects your day-to-day life?
+
+Human: Oh man it's hard. I luv going for walks, used to every evening. Can't do tht anymore without hurtin’. And work is tough too, cnt sit long, cant stand long.. Always need to keep shifting.
+
+AI: It sounds like this is really impacting your lifestyle. How does this make you feel emotionally?
+
+Human: its frustrating. I mean it gets me down a bit I guess, not being able to do stuff I used to enjo. Some days I feel a bit hopeless too, thinking will I ever get back to being me again. It's hard to explain.
+
+AI: I can understand that it may be hard and frustrating. You're not alone in your feelings. You have my full support. Where else do you feel the discomfort excluding the lower body area?
+
+Human: Not really, it's mainly the lower half. Sometimes it feels more on one side thn the other though. Lesser on the left, hurts more on the righ side.
+
+AI: Thank you for sharing that with me. It must be especially hard when the pain is inconsistent between sides. How do you usually cope or manage when the pain becomes too much?
+
+Human: I usually resort to pain meds. I avoid them if I can help it, but some days it gets too much. Heating pads also help and some light stretches usually. But, it's mainly just trying to get through the day, you know?
+
+AI: I can see how you are bravely dealing with this situation. As you cope with it from day to day, have you noticed any pattern or anything that worsens or eases the pain?
+
+Human: Exercise seems to help a bit. Like light stretches or mild yoga poses. Long hours of sitting seems to make it worse. Also, cold weather really seems to make it act up.
+
+AI: Thanks for sharing. Noting those behaviours and patterns can be vital in managing what you're going through. How do you feel during your better days?
+
+Human: The better days... wish they were more often. I feel more like myself, you know? I can do more things, enjoy more. But always got this anxiety in the back of my mind about when it is going to kick in again.

@@ -1,0 +1,21 @@
+AI: Hello there! Thank you for taking out the time to talk. Can you help me understand why you've decided to chat with me today? Any discomforts or daily struggles you'd like to share?
+
+Human: Hey! well been having hard time more n more, moves a lot at work and there is this ache i get, really bad, sorta on the side
+
+AI: I'm sorry to hear you're struggling with this. Can you describe more about this ache you've referred to? Such as when does it usually occur, and what kind of activities seem to trigger or exacerbate it?
+
+Human: It's weird, when I wake up i feel ok but after i start moving, running around at work, or sometimes when i just sit too long then stand. it hurts, a lot. Sharp and constant.
+
+AI: That does sound difficult. It's clear this pain is impacting your work and possibly other parts of your daily life. Can you share some more details about the pain? Maybe consider its intensity from 1 to 10, or how it feels - burning, stabbing, numbing perhaps?
+
+Human: I'd say 8, sometimes 9, feels like someone's stabbing me with a knife and then the pain just stays, doesn't go away.. it only eases when i rest. And don't want to rest much, i need to work, bills n stuff.
+
+AI: That must be really hard for you. It's never easy managing pain, especially when it feels as intense as an 8 or 9. How does this pain affect your behavior? Does it make you limp or affect your posture? Are you able to continue tasks when you have this pain or do you need to stop everything
+
+Human: Not easy at all, have to stop for a bit or sit down. it messes with work, ya know? Haven't noticed about limp, but maybe, cause it feels better when i don't put pressure on the side i think
+
+AI: That's understandable. Have you noticed this pain affecting your mood or emotions too? In other words, has this constant discomfort started affecting your mental state as well?
+
+Human: Yeah, guess that too.. just frustrated, ya know.. can't do stuff i used to do, feels disappointing n a kind of depressing.+ 
+
+AI: It's okay to feel overwhelmed. Chronic pain can often impact one's psychological state. In order to effectively manage this, seeking adequate support is crucial. Thank you for sharing your experiences with me today. I'm here to listen anytime you want to talk about it.

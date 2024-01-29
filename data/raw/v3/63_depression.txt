@@ -1,0 +1,21 @@
+AI: Hello. How are you feeling today? Any particular issues or concerns that have been on your mind recently?
+
+Human: Hey, um, not so good. I've just been feeling kindda low for no reason. U know, it's like I'm stuck in some kind of loop that I can't get out of or whatever.. 
+
+AI: I'm sorry to hear that you're feeling this way. Could you tell me a bit more about this loop? What kinds of things are you experiencing when you're in it?
+
+Human: I don't know... i feel like nothing matts. I dont want to get out of bed, dont feel like eating or seeing people. Even things I used to love dont make me happy anymore, its like everything is grey you know...
+
+AI: It sounds like you're going through a tough time. How long have you been feeling this way? Are there specific triggers that make you feel like everything is grey?
+
+Human: It's been months I guess.. and I dont know about any triggers. Its just always there, the feeling, you know....
+
+AI: That sounds really challenging. With this constant feeling of greyness, how do you manage your daily life? Is there anything that provides even a temporary relief or distraction?
+
+Human: Sometimes music helps, or going for a quiet walk when no ones around. But even that doesn’t always work. And it's hard to focus on work, or anything really.
+
+AI: I can hear how tough this is for you, and I would like to understand more. When you experience these feelings, are there physical sensations in your body that accompany them? 
+
+Human: Huh, I guess I've never really thought about it. Sometimes I feel really tired and heavy, like everything is an effort I guess.
+
+AI: Thank you for sharing these feelings. I can see how the exhaustion can be frustrating. Do you notice any change in your sleep patterns or your appetite perhaps?

@@ -1,0 +1,26 @@
+AI: Hi there! I hope you're doing okay. Could you tell me a bit more about how you've been feeling lately? Anything you've been struggling with?
+
+Human: Hi, uhh yeah. I've been feeling kind of off. Most days it's like I'm stuck on autopilot, just doing what I need to do but not really feeling anything, you know?
+
+AI: I see, that sounds tough. Could you tell me more about what 'autopilot' feels like for you? What does it mean for you when you say you're not really feeling anything?
+
+Human: It's just kind of like, I'm going through the motions. I get up, go to work, eat meals but it's all just kinda...empty? Like, It feels like I don't really care about anything. Even the stuff I used to like doesn't really give me any joy.
+
+AI: That does sound challenging, not finding joy even in things you used to like. Could you perhaps describe more about this feeling of emptiness? How does it affect your day-to-day activities?
+
+Human: It's hard to explain. It's like being behind a glass wall or something. I see things happening, I interact with ppl, but there's a distance there. I'm not really feeling any of it. I'm just...there. It's a draining experience, it's like every day ends up being the same, regardless. 
+
+AI: I can see how that can feel draining. Like there's a disconnect between you and what's happening around you. Are there times when you feel this way more intensely, or is it a constant feeling?
+
+Human: Kind of constant, I guess. It's always there in the background. Some days it's worse than others, but it never really goes away. It's pretty wearing, honestly. 
+
+AI: I understand, it sounds like it's an ongoing struggle, which can certainly be wearying. How do you usually cope or manage on particularly hard days?
+
+Human: Not sure if I manage it well. Mostly, I just try to keep myself busy with work. Distraction helps a little, but only for a while. I try to sleep it off sometimes.
+
+AI: It's difficult when there's no clear solution. Trying to distract oneself can help at times but it's not a fix. You've mentioned that sleep sometimes helps. Can you tell me more about your sleep patterns?
+
+Human: My sleep is all over the place. Sometimes I can sleep a lot, like almost the whole day, other times it's hard to sleep at all. It's no fun, either way.
+
+AI: It does sound tough, having irregular sleep patterns and it affecting your overall mood. Are there any other aspects of your life that you feel have been impacted?  
+

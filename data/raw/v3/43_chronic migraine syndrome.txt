@@ -1,0 +1,17 @@
+AI: Hey there, hope this message finds you well. I wanted you to tell me about how you've been recently. Anything unusual healthwise or anything unusual you've been feeling overall that you'd like to talk about?
+
+Human: hey Hi thanx 4 askin. Ya noticd some kinda pattern bt its weird you knw. For pas few wek I'm gettin a lot of hadaches.
+
+AI:  I'm sorry to hear that you're getting frequent headaches. It's important to look into patterns. Can you tell me more about these headaches like when they happen, how long they last and what do they feel like?
+
+Human: headaks r very bad. Mostly hit me up durin the afternun times. Pain feels all around head. Unusual though to have them last a long time.
+
+AI: Thank you for sharing more about it. I understand that it's hard dealing with pain especially when it's affecting daily routines like this. Do you also notice any other accompany symptoms when you get these headaches? Like sensitivity to light or sound, or feeling nauseous?
+
+Human: yeah gud point I do get sensitiv to light. Smtimes feelin lik vomitin. But I thought it's just coz of bad pain.
+
+AI: That's really significant information, we're making progress here. Does the pain interrupt your work or daily activities? Do you have to rest in darkness or quiet to get some relief?
+
+Human: Yesss absolutely interrupt. Got 2 lay down most times. dark quiet place works bst 2 calm it down. it's realy messing thngs up. 
+
+AI: It does sound very challenging to be dealing with this. And your strength in dealing with this shows through. Also, do these episodes come on suddenly or do you get any warning signs beforehand? Maybe like a strange feeling or vision changes?

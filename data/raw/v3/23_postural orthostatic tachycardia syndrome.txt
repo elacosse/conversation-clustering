@@ -1,0 +1,29 @@
+AI: Hi there, I noticed you've been feeling under the weather lately. Could you elaborate a bit on what you've been experiencing?
+
+Human:  Hey. Yeh its weird. Like I get dizy somtimes. especaly when I stand up after lying down you nkow? kinda feels like a head rush, but more intense.
+
+AI: That sounds uncomforting. How frequently are you experiencing these dizzy spells and is there anything else you've noticed that might be related?
+
+Human: not sure. maybe.. couple times a week? noticed my heart beating realy fast too when i stand up, don't think it's normal but not sure :/
+
+AI: That doesn't indeed sound usual. Can you describe what these rapid heartbeat episodes are like? Are there any other symptoms you've been encountering too?
+
+Human: Beats super fast when standing up. its scarin me a bit, you know? feels like I just ran a mile but I just stood up. hmm.. do feel more tiered than normal and I think I've noticed I'm sweting more than usual. 
+
+AI: It's okay to feel scared when your body behaves in ways you're not used to. As for this tiring feeling, how does it affect your day-to-day life? Do you find it hard to keep up with usual activities?
+
+Human: Oh yeah def. I don't have energy like I uesed to. tired most of times, even after good sleep, can't keep up with chores, gotta take breaks. It's frustrating you know. 
+
+AI: I can only imagine how frustrating that must be for you. It sounds like your symptoms intensify with standing or certain movements. Could you describe what you experience during those moments?
+
+Human: yeah, standing..even sittn sometimes. Like, I feel fine in bed, but as soon as I get up, the world starts spinning, heart starts racing, sloghish, light-headed. hands shake too somtimes, its scary
+
+AI: That truly sounds like a challenging circumstance to deal with. Besides the physical discomfort, how is this impacting your emotional well-being or your interactions with others?
+
+Human: Well im kinda stressed. scared to go out alone now. Cancel on friends alot. Feel like theyre gettin tired of my excuses. Just wanna feel normal again
+
+AI: I can understand why it has been difficult for you. Experiencing symptoms that limit your activities can lead to feelings of isolation. But remember, it's crucial to reach out to those who support you during periods like these. Did you get a chance to discuss these symptoms with a healthcare professional yet?
+
+Human: not yet, keep puttin it off, kinda scared of what theyd say. but i guess, i should. its been worse latly
+
+AI: It's completely normal to feel apprehensive. But remember, they're here to help and getting a better understanding of what you're experiencing could lead to improvement. Do not hesitate to reach out to me, I'm here to help where I can too.

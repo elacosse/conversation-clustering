@@ -1,0 +1,27 @@
+AI: Hi there. How are you feeling today? It's always a good start to check in with ourselves.
+
+Human: not so good. seems like another one of those days. massive headache. 
+
+AI: I’m sorry to hear that you're not having the best day. Can you explain a little bit more about these headaches?
+
+Human: it's like a heavy hammer is pounding my head. and not just the head. it's my eyes, the back of my neck. feels like my entire body is hurting. 
+
+AI: Ouch, that sounds intense. I'm really sorry to hear this. How often do you experience these symptoms? 
+
+Human: Most days really. It’s kinda hard to predict. Conference calls, reading, almost anything can set it off. This has been going on for years. 
+
+AI: I'm really sorry to hear that these headaches have become such a dominant part of daily life for you. Have noticed any specific triggers, anything in particular that seems to bring these episodes on?
+
+Human: Maybe light, noise, it’s all kind of a blur really. I guess just a lot of sensory stuff. I’ve noticed I also get nauseous at times.
+
+AI: It's quite unfortunate that something as fundamental as light and sound can lead to such discomfort. The fact that you're experiencing nausea as well could indicate that these really aren't just typical headaches. Do these episodes come along with any other symptoms?
+
+Human: Yeah, sometimes I become really sensitive to light and sound and need to lock myself up in a quiet, dark room. And my eyes...they feel like they’re gonna burn out. It's hell man, absolute hell.
+
+AI: It must be really hard having to put up with that kind of intensity regularly. Is there anything else you'd like to tell me about your experience with these headaches? Perhaps about how they interfere with your life or how they make you feel?
+
+Human: It's tough you know, not knowing when the next big one is gonna hit. It’s like a minefield, having to tread cautiously, avoiding things that might set off another episode. Life’s not been the same. I’m always tired, scared, fatigued. It's draining.
+
+AI: You're really going through a lot, I’m sorry that this has taken such a toll on your life. Your descriptions paint a picture of what could potentially be a more complex condition. Has talking about your experiences here helped in any way? 
+
+Human: In a way, yes. It's not something I talk about much and getting it out feels somewhat relieving. So thanks, appreciate it.

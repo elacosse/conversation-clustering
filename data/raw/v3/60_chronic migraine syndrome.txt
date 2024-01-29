@@ -1,0 +1,23 @@
+AI: Hello! Thanks for taking the time to chat with me today. Can you begin by sharing how you've been feeling lately? 
+
+Human: HI, thanks 4 asking. I been having this weird sensation, like my head, it just hurts really bad now n then. It kinda just keeps coming back, u know? Not sure wat's goin on. 
+
+AI: I'm sorry to hear that you're not feeling well. When you say your head hurts really bad, can you elaborate a bit more? Are there any specific locations in your head where the pain seems to focus? 
+
+Human: Yeah mostly here, like behind my eyes an also on one side of my head. They get so strong, I can barely do anything that time. An lights, loud noise, they just seems too much, they makes it even severe.
+
+AI: That sounds tough, I can imagine that's quite disruptive to your day-to-day activities. Do you notice if there are times when these sensations are more severe than others? Are there things that make it better or worse? 
+
+Human: well yea, stress def makes its worse, and sometimes weather change to... dont know why. An i notice it gets better when i lay down in a dark room, away frm noise.
+
+AI: It seems you have found some ways to alleviate the discomfort. How frequently are these instances occurring to you? And when it happens, for how long does the pain usually last? 
+
+Human: Its unpredictable, some weeks it occurs 3, maybe 4 times. When it happens, it can last for hours, sometimes whole day even...
+
+AI: It must be really challenging dealing with the unpredictable nature of the pain. How does this impact your daily tasks or activities? You've mentioned it gets severe at times, so I imagine this could be quite disruptive. 
+
+Human: Ur right, it effectes evrything. my work, I have 2 take sick leaves often, cant even focus properly. nd even tough to spend time with family, or go out with friends... mostly jst in bed.
+
+AI: It sounds like these painful episodes are really impacting your quality of life. How do you cope with this? What helps you stay positive and continue doing the things you love?
+
+Human: Its hard, but I guess you kinda just learn to live with it. I try to relax, practice deep breathing when it happens. That helps sometimes... But just wish I could go back to normal, u know?

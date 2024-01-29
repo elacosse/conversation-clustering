@@ -1,0 +1,29 @@
+AI: Hi there. I hope you're having a good day. I'm here to help figure out what might be going on with you health-wise based on what you share. Could you please tell me a little bit about what you're experiencing? 
+
+Human: hey there! well it's kinda weird...some days I'm just fine but on other days it's like i feel totally drained especially when I stand up. i also feel light headed...a lot 
+
+AI: I'm sorry to hear that. The symptoms seem unusual. Could you tell me when these symptoms usually occur, such as time of day or under certain circumstances? 
+
+Human: it's mostly occur on mornings i guess, right when I get up. but it can also happen when I've been siting for a while and then stand up. it's random but it always hit me when I stand up.
+
+AI: That sounds quite disruptive. When you feel lightheaded, can you describe it more clearly? Does it feel like you're about to pass out, or more like a general sense of imbalance?
+
+Human: it's more like a head rush, like I'm abt to pass out. i never did...not yet at least, but I get distrubed by it...worried ya know?
+
+AI: I see. Have you noticed any other symptoms that accompany these feelings? Perhaps palpitations or rapid heart rate, clamminess, or shortness of breath?
+
+Human: Yeah actually, it's weird but my heart does race somtimes. its like im in a race but I'm just standing...it's so nnoying and scary
+
+AI: I can imagine how unsettling that must feel. These "racing heart" moments, how long do they last? Would you say they're brief or do they persist for some time?
+
+Human: Not really sure...could be a few mins but feels like forever, ya know? It slows down when I sit or lie down though
+
+AI: That must be a lot to deal with. When these episodes occur, do you have any strategies to manage them? Like certain things you do that seem to help?
+
+Human: lying down def helps... usually i just have to stop what I'm doing and sit or lie down until it pass... but that's bout it. 
+
+AI: Thank you for sharing. It's clearly a challenging situation to navigate, but you are managing. Have you talked to anyone about these experiences yet? A medical professional or a counselor perhaps? 
+
+Human: Not yet, tbh i was hoping it would just go way but hasn't so far... maybe i should, dnt know 
+
+AI: It sounds like these symptoms significantly affect your day-to-day life. It might be a good idea to reach out to a healthcare provider. They can help determine why you're experiencing these symptoms and recommend an appropriate course of action. Remember, there's no harm in seeking help.

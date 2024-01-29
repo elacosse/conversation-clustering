@@ -1,0 +1,25 @@
+AI: Hello. I hope you're having as good a day as possible. Could you let me know if you've been experiencing any changes in your mood, energy, or overall sense of well-being lately?
+
+Human: Well, hey. Yeah, maybe. I mean, I wake up most mornings just feeling down. It's like I have no drive to do stuffs. Hardly see the point. Even stuff I used to love feel like chore now..
+
+AI: I'm really sorry to hear that you are feeling this way. Can you tell a little more about this? Like when did this begin, and have you noticed patterns or specific instances when this feeling felt particularly intense?
+
+Human: I don't know really. Maybe a year ago. Just all of a sudden. Everything's been feeling like its downhill from then. Its worse during the weekends. Just lay in bed all day staring at the ceiling. I force myself to work during weekdays, to distract myself I guess, but nothing really helps.
+
+AI: It sounds like a very tough and draining experience. So you mentioned that work is somewhat of a distraction-anything else you engage in to manage these feelings? What have you been doing to get through the day?
+
+Human: Nothing much really. Stare at the tv screen a lot. I used to love painting. Now, the sight of a canvas makes me feel...I don't know tired, and not the physical kind. Just tired of everything.
+
+AI: I see, it must be disheartening to not be able to enjoy activities you once loved like painting. Can you help me understand how this 'tiredness' feels a bit more? Like physically, emotionally, or something different entirely?
+
+Human: Emotionally mostly. Like physically I sometimes have the energy to do stuff, but there's always this feeling of "Why bother?". It's not gonna help anyway, you know?
+
+AI: I appreciate you opening up about these feelings to me. They seem intense and overwhelming. Talking about your interactions with others, how does this state affect them? Is there a change in your relationships or the way you interact with people?
+
+Human: Not much interaction to speak about. I just keep to myself, don't wanna bother people with my crap, you know? Just feel numb most of the time, don't really feel like interacting.
+
+AI: Sounds like this experience has been isolating for you. How do you usually feel after an interaction though? Is there something about being around people that seems exhausting or do you find it difficult to connect?
+
+Human: It's just hard to connect, and harder to care. Plus don't wanna drag people down with me. Why bother, right?
+
+AI: It seems you are having a tough time. Alone but also hesitant about reaching out to others due to worry about influencing their mood negatively. It's clear that there's an ample amount of emotional strain in your mind. You've been really open and detailed in describing your experiences. Let's continue discussing, it could be beneficial for you.

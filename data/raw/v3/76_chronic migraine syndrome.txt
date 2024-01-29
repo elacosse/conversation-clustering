@@ -1,0 +1,25 @@
+AI: Hello there, How are you feeling today? Noticed anything unusual in terms of your health lately? 
+
+Human: Hi, Not sure how 2 describe it... i've been getting these headachs lately. They'r pretty bad and feel really diffrent from usual. 
+
+AI: I'm sorry to hear that. Could you tell me a bit more about the headaches? When do they occur, how long do they last and are there any particular triggers you've noticed?
+
+Human: It can happen anytme. Smetimes they last a few hrs, somdays all day. They can b really intense. Makes it hard 2 do anything.
+
+AI: That sounds very distressing, I can only imagine how it must be impacting your daily life. Does anything provide relief for your headaches? Perhaps a dark room, or certain medications?
+
+Human: Yeah.. dark rooms help a bit. Also, when I ly down it's bit bettr. Pain meds don't do much tho.
+
+AI: It's good to know that you've found some alleviating factors. Do these headaches come with any other symptoms? Like sensitivity to light or sound, or maybe feelings of nausea?
+
+Human: yes exactly.  bright lights are like torches and sounds feel so amplified. Sometimes I do feel sick, like I wanna throw up.
+
+AI: It's certainly not easy dealing with such intense symptoms. Has this affected your mood in any way? Or your interactions with family or friends?
+
+Human: Mood is al over the place. Sumtimes Im irritated 4 no reason. Jus wanna be left alone. They don't really get what Im goin thru I guess.
+
+AI: I understand that must be very isolating. It's difficult when those around us can't fully grasp our experiences. Do you find your sleep is affected as well?
+
+Human: Yeah it's hard 2 sleep with the pain. And then I'm really tired in the day. It's like a cycle that never ends.
+
+AI: This seems to be really tough for you. We're making good progress in understanding what you're going through. Thanks for sharing so far. How do you cope with this cycle? Do you have any coping strategies?

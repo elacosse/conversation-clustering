@@ -1,0 +1,25 @@
+AI: Hello there! It's nice to see you today. I've noticed lately you're not feeling well. Could you share with me how you're feeling?
+
+Human: Hey AI. Yeah been a bit rough honestly. Keep getting dizzy when I stand up, kinda like lightheaded? Also, heart seems to be racing a lot. Can't do much w/o feeling drained :(.
+
+AI: I understand, it sounds really challenging. When you say 'dizzy' and 'lightheaded', could you describe it a little more? For instance, how does it feel right after you stand up?
+
+Human: Like, my head gets all swimmy, feels like I'm gonna pass out sometimes. I need to pause for a few secs to get it together... barely can stand, let alone walk. Ugh!
+
+AI: Sounds quite difficult to deal with indeed. You mentioned your heart seems to be racing a lot. Could you tell me more about this? For instance, when does this usually occur?
+
+Human: It's weird... like there’s no real pattern?? It happens most times I’m up from a sit or lying down. But even just doing stuff, can tire me out. I end up needing breaks so often.
+
+AI: That sounds very challenging, indeed. How is this impacting your daily life and routines?
+
+Human: Well it sux! I used to love going on jaunts, hiking... now, can barely get to the stair top at home w/o feeling like I’m gonna faint. :( Frustrating, you know?
+
+AI: I can imagine how frustrating that must be, especially when it impacts things you love doing. How are you coping with these changes emotionally?
+
+Human: Lots of tears, lots of anger AI. Feel like I've lost control over my body. It's scary and frustrating. Some days are just... really bad. 
+
+AI: I hear how tough it is and it's okay to feel this way. It's a difficult time, but remember it's okay to seek help and be kind to yourself. Have you talked about these symptoms with your doctor or a specialist?
+
+Human: Yeah been back n forth with doc. They're a bit stumped though... lot's of tests, not enough answers. Next up: specialist! Just hoping for some clue... Anyway thanks AI, really needed to vent. 
+
+AI: I appreciate you sharing this with me. Don't hesitate to reach out if you need to talk again or feel like sharing more. I'm here for you.

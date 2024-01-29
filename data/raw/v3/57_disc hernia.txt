@@ -1,0 +1,25 @@
+AI: Hello there! I hope you're doing well. Can you tell me a bit about how you've been feeling physically these recent days? 
+
+Human: Hey! i'm eh, doing okay i guess.. but idk man.. since coupl of weeks my back's been killin me. 
+
+AI: I'm sorry to hear that. Could you elaborate a bit more on the nature of the pain? For example, can you describe the intensity, the location, and whether it's constant or does it come and go?
+
+Human: oh it's lik a solid 6 on scale of 10, never gets less. it's in lower back really. sometimes it shoots down my leg pretty bad.
+
+AI: I understand that must be quite uncomfortable. Apart from the pain, do you notice any other symptoms? Maybe numbness or weakness linked to this discomfort?
+
+Human: yeah.. lately i feel this weird tingling in my leg. And it's getting hard 2 sit for long, even standing is painful sometimes.
+
+AI: It seems like this is affecting quite a bit of your daily life. How does this discomfort influence your regular activities, say, work or other daily tasks?
+
+Human: dude, tell me about it. can't do much, not even pick up stuff.. seems like bending is a big no. this is driving me crazy.
+
+AI: I can only imagine how tough this must be. It sounds like the pain is restricting a lot of your movement. Have you ever observed if the pain is aggravated or relieved by certain positions or movements?
+
+Human: laying flat sure helps. but i can't just lay all day, can i? any kind of bending is the real problem here. that's when the pain really kicks in.
+
+AI: It sounds quite debilitating. Thank you for sharing, though. It gives me a better idea of your situation. How is the pain affecting your emotional well-being? How are you feeling about handling the situation?
+
+Human: it's frustratin', definitely. n it's not just that, it's wearing me down, y'know. I am worried cause I dont knw when this will stop. Also, it's  effecting wrk, so its bit stressfull, really too much on my mind.
+
+AI: I understand. The physical pain combined with the emotional stress must be hard to cope with. Just wanted to let you know, it's completely okay to feel overwhelmed in moments like these. It's important to seek professional help if possible, as they can provide you with appropriate treatment options. And remember, you're not alone in this. There are numerous support groups out there that you might find helpful to share experiences with.

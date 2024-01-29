@@ -1,0 +1,23 @@
+AI: Good evening! How have you been feeling lately? Anything unusual going on with your health?
+
+Human: hey there. Honestly ve  been better. Lately my body has been weird. my hip, leg area has this nagging pain, comes and goes ya know.
+
+AI: I'm sorry to hear that. May I ask if this pain is persistent or do you have moments when you are free from it? 
+
+Human: it's like all the time, mostly. Some times are better than others, but it always seems to come back.
+
+AI: Does the pain alter the way you move or perform daily tasks? Could you describe those moments?
+
+Human: yes, like standing for too long hurts, can't really walk far without needing to sit. Feels like I'm being held back by it, you know,
+
+AI: I can imagine it must be frustrating. Have you noticed any specific condition or action leading to an increase or decrease in your pain levels?
+
+Human: hmm not sure but ya seems like the more l move the worse it gest, rest helps but not much
+
+AI: Does it affect your sleep or overall quality of life? Could you give me more details?
+
+Human: kinda. I mean, I can sleep fine but getting up is a whole another story. Makes it all just a bit miserable.
+
+AI: I understand how challenging that can be. How does this continuous discomfort affect your emotional health? Maybe your mood or patience level?
+
+Human: its stressfull , i get more irritated than usual these days. Its just constant nagging pain. no break from it really.

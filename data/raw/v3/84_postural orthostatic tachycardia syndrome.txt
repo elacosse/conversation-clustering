@@ -1,0 +1,33 @@
+AI: Hi! How has your day been? 
+
+Human: Hey, pretty meh. Feeling tired and kinda out of whack but that's normal. 
+
+AI: I'm sorry to hear that. Could you explain a bit more? How does "out of it" manifest for you?
+
+Human: It's like every time i get up, my heart goes all fast & fluttery. Can't stand in lines or anything. And, tired like ALL the time, lol.
+
+AI: It sounds pretty taxing. This rapid heartbeat, how long does it persist when you stand up?
+
+Human: Dunno exactly...prob. few mins. Sometimes if stand too long, faints happen. But i mean, I kinda get used to it.
+
+AI: That seems like a difficult adjustment. This fatigue you mentioned, is it different from just being tired?
+
+Human: Well I guess. It's like I'm drained, even after a good night’s sleep. Coffee doesn't work anymore.
+
+AI: That must be very challenging. Does anything help? 
+
+Human: I guess lying dow helps sometimes. oh and salty snacks. Doc told me to up da salt for some reason. 
+
+AI: Interesting, how does upping the salt intake affect you?
+
+Human: I suppose it helps a bit...feels like it gives a bit of energy maybe? hard to tell honestly...
+
+AI: Understandable. These impacts...how do they affect your everyday life or your interactions with others?
+
+Human: Pretty rough tbh. Hard to keep up with everyone else...feeling like you're 80 when you're only 20, lol. It's hard for people to get it tho.
+
+AI: I can only imagine how tough that might be. What do you wish others knew about your experiences?
+
+Human: Just to car abt how much this drains me, not to push so hard. Or at least, to not get upset when I can't keep up. 
+
+AI: That sounds like it would be really helpful. It's important for people to respect your boundaries. Thanks for sharing your experience with me.

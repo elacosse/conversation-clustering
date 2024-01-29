@@ -1,0 +1,25 @@
+AI: Hi there! I hope your day is going well. Could you tell me about any recent health issues or discomfort you've been experiencing?
+
+Human: oh hey, yeh it's goin alright. idk really, I've been getting these nasty headaches, they come and go, quite a lot tho. Bit of eye strain as well, had to cancel plans with mates last min, real bummer
+
+AI: Oh, I'm sorry to hear that. Can you describe what these headaches feel like a bit more? Try to be as specific as you can about the sensations you experience when they happen.
+
+Human: ummm, it's like a throbbing in the temples mainy. sometimes it spreads around like a tight band squeezing. It's pretty fkin terrible, i sometimes have to stop whatever I'm doing. And then theres the light, feels like it just bites my eyes. not good at all
+
+AI: That sounds really tough. Does anything else happen when you experience these? Perhaps other feelings or shifts in behavior?
+
+Human: Yea, feels like I'm gonna throw up sometimes. Dont feel like eating. Blasted light makes it hard to focus, gets a bit blurry, difficult to get work done. mood's pretty low too
+
+AI: It sounds like you are going through quite a bit. Can you tell me more about how it affects your daily life and your emotional state? 
+
+Human: It messes up my routine a lot. Like, I miss work sometimes. I'm having a tough time keeping up with stuff. And the mood swings, man! Like I'm mostly pissed off because of the pain. Also, feels like I'm always tired. Not to mention the anxiety about when's the next one gonna hit. 
+
+AI: I see, the unpredictability must be hard to deal with. Do you typically do or take anything to help alleviate these symptoms? How effective has it been? 
+
+Human: Been popping painkillers. doesnt always work though. like sometimes it just dulls it down. but when it's bad, it's bad. Tried a bit of yoga and relaxing, helps a bit, but dunno. 
+
+AI: Thanks for sharing these experiences. It seems to be quite a challenge, physically and emotionally. Remember, it's important to consult a healthcare professional. They would be equipped to help you get to the root of the problem and suggest an appropriate treatment or further guidance, alright?
+
+Human: Yeah, you're probably right. It's just hard, you know. I'll book an appointment or something. Thanks. 
+
+AI: You're welcome. I hope you feel better soon. Don't hesitate to reach out again if you need someone to talk to about what you're experiencing. Take care.

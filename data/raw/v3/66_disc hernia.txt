@@ -1,0 +1,29 @@
+AI: Hi there! Before we begin with anything, how are you feeling today?
+
+Human: hey, im doin' ok i guess. been better tho.
+
+AI: That's understandable, we all have our off days. Could you tell me more about what's making today less than great?
+
+Human: Its just, you know, same thing, my backs been hurtin again and its kinda gettin worse off late but i guess i'll live.
+
+AI: I'm truly sorry to hear that you're experiencing back pain. When did this start to become a recurring issue for you? 
+
+Human: uh, few months now. thought it was just strain from work, but it don't quit. 
+
+AI: Oh, that sounds difficult. Can you describe how this back pain affects you? It could be anything - your daily activities, mood, sleep, or even social interactions.
+
+Human: It's hard to explain. But i cant sit or stand too long, it gets unbearable. also nights are tough, hard trying to sleep when wincing every time i roll over. I've had to miss out on stuff with my friends too cuz it's not easy.
+
+AI: That indeed seems hard. I can see how it must be impacting your life negatively. Could you perhaps tell me more about the nature of this pain? Is it more of a sharp stabbing, a deep ache, or something else?
+
+Human: umm, it's more like a sharp pain, comes suddenly. It's worst near my low back, sorta shoots down my leg sometimes, my right one.
+
+AI: I see. That sounds really uncomfortable and frustrating. I'm here to help where I can. Are there certain activities or positions that intensify the pain more than others? 
+
+Human: bending over or lifting anything slightly heavy is like torture. Long car rides, sitting at my desk work all day, or just standing too long, it all sucks. 
+
+AI: Thank you for expanding on that. Your physical discomfort sounds quite challenging. How does this back pain, and the limitations it brings, affect you emotionally? 
+
+Human: look, its just frustrating and tiring. some days I'm ok, but then somedays It's just so much, you know? feels like theres no break.
+
+AI: I can imagine it's quite taxing both physically and mentally. Please feel free to share anything more you want to, I'm here to listen.

@@ -1,0 +1,25 @@
+AI: Hi there! Thanks for getting in touch. Could you tell me a bit about what brings you here today? Is there anything specific on your mind?
+
+Human: Hey AI. it's like i got this really bad headache that just keeps comin back. Hard to focus on anything.. lost count of the days too :/
+
+AI: Oh, I'm sorry to hear you've been feeling this way. Could you give me a bit more insight into these headaches? Where do they occur? Are they constant or periodic? 
+
+Human: mostly it's all over i guess...sometimes near my eyes... they just won't go away... popping a light n lying down helps a bit u knw... but it keeps comin back...i think its ruining my sleep too. 
+
+AI: I can only imagine how challenging that must be for you. And how does it actually impact your daily life overall? So how are the things you used to enjoy doing before, are you still able to do them?
+
+Human: its real bad... I used to lyk readin nd painting but hard to focus now... i often lose my appetite... I can't even stand loud noises.. even the sun hurts my eyes... started avoiding goin out too...
+
+AI: Those sound like quite significant changes in your life, I truly sympathize. It seems like these headaches and the changes they've brought are really impacting your life. How is your emotional well-being handling all this?
+
+Human: umm... its like the pain is not just in my head anymore...its in my life too... feels like I'm losing control over stuff.. it's just making me so mad and sad at the same time. i feel like I'm stuck and can't move on really..
+
+AI: It's entirely valid to feel the way you do. Pain, physical or emotional, could be debilitating, especially when it feels like it's taking over. I'm glad you are reaching out and discussing it. How are you coping with these feelings, anything you've found to be particularly helpful?
+
+Human: Music helps, you know... especially the soft ones... I've tried meditation but it's hard to focus... I keep trying I guess... that's all I can do right now...
+
+AI: I understand. You're trying your best to cope with it and that's commendable. Music and meditation sounds like a good attempt at managing these tough times. Remember, it's okay to reach out to others too for support. Do you feel comfortable discussing this with your friends or family?
+
+Human: uh, yeah... I usually avoid talking bout it.. don't want them to worry too much... they know i'm not feelin well... not sure what else to say...
+
+AI: I see, thank you for providing these details so candidly. It's not easy to share these feelings, and I appreciate your trust. Have you sought any medical advice for the headaches and the other effects you're experiencing?

@@ -1,0 +1,17 @@
+AI: Hello there, I hope you're warming up to a good day. Can you share how your past few days have been?
+
+Human: Hey, It's been really though this week. I just don't know, i cant see to enjoy anything like i used to. i dunno why. Don't have will to do anything, really. 
+
+AI: It sounds like you're going through a difficult time. If you feel comfortable, could you explain a bit more about how this lack of interest or enjoyment has affected your day to day activities?
+
+Human: Yeah, I don't know... It's been like i don't want to do things.. i used to like painting a lot or going out with buddies. but now i feel like it's all grey.. it's not fun anymore. And i just want to stay in bed all day. I feel should be working but there's like no energy in me to do so.
+
+AI: That does sound difficult. Nobody likes to feel low energy all the time. Apart from changes in interests or actions, have you noticed any other changes recently that seem untypical for you?
+
+Human: Yeah apart from that, sometimes i feel really upset, like i just wanna cry for no reasons. And I've been having trouble sleeping.. I wake up in the middle of the night and just stare at the ceiling or something. Start to think a lot of stuffs. It's really impacting my routine, i must say.
+
+AI: It seems you've been experiencing ongoing feelings of sadness and difficulty sleeping. That must be hard to handle. How has all of this affected your relationships or the way you interact with people around you?
+
+Human: It's been difficult to maintain the same level of interaction. I don't feel much talking or sharing things anymore. It's like i'm in my shell and prefer being left alone. Not sure why.
+
+AI: It sounds like you're feeling isolated and distanced from your usual circles, which makes it even more challenging. How are you coping with all these changes you're experiencing?

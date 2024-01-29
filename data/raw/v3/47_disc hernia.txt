@@ -1,0 +1,25 @@
+AI: Hello, how are you feeling today? 
+
+Human: Oh, not too great. Been having a lot of trouble doing day to day stuff cause I got this pain in my back and it's crazy.
+
+AI: I'm sorry to hear that you're not feeling well. Can you describe this pain you're experiencing? Is it constant or does it come and go?
+
+Human: Its like a sharp sorta stabbing pain, right in my lower back. Sometimes the pain spreads to my leg too. ...it's bad when I sit or try to lift anything...standing makes it a bit better.
+
+AI: That sounds tough – I can imagine it must be affecting your routines a lot. Is there anything in specific that seems to trigger or worsen this pain?
+
+Human: Nah, not really. I mean, sitting down for long time, standing up too quickly, or bending to pick sumthing up is worse. But that's bout it.
+
+AI: It is important to try and avoid those movements that increase your pain. Have you noticed any accompanying symptoms? Numbness, tingling, or weakness for instance?
+
+Human: Well now u mention it, there is a bit of tingling now and then down my left leg... don't think there's any numbness or weakness tho.
+
+AI: You mentioned the discomfort improves slightly with standing. Are there any other positions, or perhaps treatments you've tried, that seem to alleviate the pain at all?
+
+Human: I've tried hot showers, les strained postures, even got a better mattress. Little bt of relief bt it doesn't really go away fully...
+
+AI: It's a good start that you've been proactive about finding ways to manage this. Did you notice any event or incident that could have led to the onset of this pain?
+
+Human: Just remember it started few months back. I thought was strain due to work or something… now seems like more than that… 
+
+AI: That's very helpful information, thank you for being so open about it. Feelings of pain, particularly persistent pain, is something that should be evaluated by a healthcare professional. They can help determine what might be causing it and how it could best be managed. Your well-being is important!

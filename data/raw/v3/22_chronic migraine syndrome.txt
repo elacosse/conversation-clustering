@@ -1,0 +1,25 @@
+AI: Hi there, hope you're okay. This is a space where you can describe anything you're going through right now, physically or emotionally. Is there something bothering you that you'd like to talk about today?
+
+Human: Helo, I been having headahces a lot, more than usual. they r really bad somtimes. not sure whats going on.
+
+AI: I'm sorry to hear that you're experiencing continuous and intense headaches. Could you tell me more about when you usually get them and how they feel?
+
+Human: Usualy get em in mornigns mostly but sumtimes thery happen randomly. Like some1 hammering my head, its really badg
+
+AI: That sounds really tough to deal with. Beyond the urgency with which they occur and the intense pain, is there anything else that you experience while you're having these headaches?
+
+Human: Dnt feel like doin anythin, just wana lay in dark room. Sometimes feel sick 2, its just makes everythin hard.
+
+AI: It definitely sounds challenging. Can you describe a bit more about how these headaches and related symptoms are affecting your day-to-day life and routines?
+
+Human: Can't concentrate on work, don't even wana spend time with family. I feel like Im losing myself because of those.   
+
+AI: It seems like these headaches are really impacting your relationship with work and family, as well as your sense of self. Is there anything that appears to help alleviate the headaches in any way?
+
+Human: Some painkillers work for while but it comes back. Nothing else. Also, light sometimes makes it worse.
+
+AI: I see, so you're taking painkillers to help and you try to avoid light as it seems to intensify the headache. Have noticed any other triggers that might be contributing to these headaches?
+
+Human: Aside from light, not sure. Some noises bother me, maybe stress but not sure.
+
+AI: The symptoms you're explaining seem rather complex, and I can sense your frustration. Have you considered reaching out to a healthcare professional to discuss these symptoms? Remember, it's always okay to ask for help when you're experiencing something persistent and disruptive like this.

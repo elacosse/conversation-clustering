@@ -1,0 +1,25 @@
+AI: Hi there, hope you're doing well. Can you share with me what's been troubling you physically lately? 
+
+Human: Hey, yeah not bad thanks. Noticed I just being having some untcomfortable in my lower body. Bit strange.
+
+AI: That sounds unpleasant. Can you describe to me in more detail the discomfort you're feeling in your lower body?
+
+Human: Well its a kind just pain really. Dont notice it till I start moving around and then it hits in my right side lower down. It's sharp, like. Can't jus ignore.
+
+AI: I see. Does this sharp pain happen every time you move, or is it more at certain times like in the morning or evening?
+
+Human: More like it's on and off. When i have been sitting for while it gets … kinda worse. Morning definitely.
+
+AI: What is your experience like when you try standing up after sitting down for a while? How does your body respond?
+
+Human: It's like when i try to get up, feels like … kinda stinging in right side... like I've pulled something. Difficult to straighten up.
+
+AI: I'm sorry to hear that you're going through this. Could you tell me a bit more about how this has impacted your everyday life?
+
+Human: Yeah everyday stuffs ... really hard sometimes. Walking the dog, playing footie with kids, cant do it without it messing me up. Just constantly thinking about it now.
+
+AI: That must be immensely frustrating. How have you been coping with the impact on your activities and mental aspect of always thinking about it?
+
+Human: Been trying to take it easy, chilling out when I can. Its hard not to think about it. It’s a constant reminder. Painkillers help but not want to be on them all time.
+ 
+AI: I appreciate you sharing that with me, it's a tough situation. Would you share how this makes you feel emotionally? 

@@ -1,0 +1,23 @@
+AI: Hello there! How have you been feeling lately? I noticed you seem a bit uncomfortable. Would you like to talk about it?
+
+Human: Hi, yeah I ain't feelin so great to b honest, been havin some back issues. 
+
+AI: I am sorry to hear that. Can you tell me more about these back issues? What kind of symptoms are you experiencing?
+
+Human: well, I've been gettin this sharp pain in my lower back. It sometimes spreads dwn my legs, kinda tingling sensation.
+
+AI: That sounds uncomfortable. How often does this happen?
+
+Human: It's almost daily now.. worse when I sit for a long time or lift somethin heavy. Also kinda ruins my sleep sometimes.
+
+AI: That must be quite troublesome, especially if it disrupts your sleep. Apart from physical pain, how is this situation affecting you emotionally or mentally?
+
+Human: It's very frustrating. it's like I'm always limited to what I can do, always worried tht I might hurt myself more. It's make me feel tired all d time, mentally.
+
+AI: I understand the frustration that comes with such limitations. It must be difficult coping up with the physical pain and mental exhaustion. What have you tried so far to manage the condition? 
+
+Human: Hmm... Tried a few things like hot compress, stretching exercises. Took sum painkillers too, bt they just offer temporary relief. Seems like nothing really works.
+
+AI: It sounds like you've been proactive in trying to find a solution, but it's disheartening when the changes aren't permanent. Have you considered seeking professional medical advice?
+
+Human: Yeah, bn thinkin to fix an appointment with a doc. Just haven't gotten around to it cuz of work. But I guess I shud prioritize my health.

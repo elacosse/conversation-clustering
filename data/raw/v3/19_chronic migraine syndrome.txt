@@ -1,0 +1,25 @@
+AI: Hey there! I noticed you didn't seem your usual self lately. Anything you'd like to talk about?
+
+Human: Oh hi! Yeah, just not feeling too well lately.
+
+AI: I'm sorry to hear that. Can you tell me a bit more about what you're experiencing?
+
+Human: Ive been getting these terrible headaches. Seems like almost everyday. Its horrible.
+
+AI: I can't imagine dealing with that on a constant basis, you must be really strong. Can you tell me what these headaches are like?
+
+Human: Really intense. Can't really see properly and light just kills me, makes it worse. It's like a hammer on my brain.
+
+AI: That sounds truly overwhelming. How do these headaches affect your daily life?
+
+Human: I can't work properly. Often gotta take a day off just to recover from one. It's really affecting my life more than I'd like it to.
+
+AI: I can understand how that might take a toll on you. How do you normally cope with these headaches? 
+
+Human: Mostly i jest lay down in my dark room away from noise. Sometimes take these meds my doctor gave, don't help much though.
+
+AI: It's a tough way to mend things. How does the situation make you feel emotionally?
+
+Human: Im just tired. All the time. Its like living in a fog. I miss feeling normal, like before.
+
+AI: It sounds like its not just about the physical pain, but also the emotional impact it's having. Know that you're not alone and it's okay to seek help beyond what you have now. It might be helpful to talk to your doctor about different or additional approaches to managing your pain.

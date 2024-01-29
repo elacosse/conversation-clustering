@@ -1,0 +1,23 @@
+AI: Hi there! I'm your friendly AI assistance. Could you please tell me how you're feeling generally? Any persistent discomfort or distress you've been experiencing? 
+
+Human: Oh, ugh thanx 4 asking AI. Been feeling kinda bad for a while now. I get these gnarly headaches, they're super intense. Feels like hammer's actin on my skull.
+
+AI: I'm sorry to hear about your experiences. These headaches, can you give a slightly detailed description of them, like how often they occur, and how long they last?
+
+Human: Uh, yeah. Kinda hard too say exactly how often... they sorta jus show up. But usually maybe every other day, or som days when it's really bad it's all day. They can last hrs. Dulls my senses too. Noise, light all boom in.
+
+AI: I see, that sounds certainly tough to handle. Besides the intensity and being sensitive to light and noise, how else would you describe the pain? 
+
+Human: Feel like...you know...throb throb kind of thing. On one side at a times, or somtimes both sides. Feels really heavy and tiring.
+
+AI: It sounds like you're going through a lot, I'm here to help you understand better. Do these headaches ever happen suddenly, or do you notice anything that might trigger them?
+
+Human: No triggers, no real warning. They just hit me outta nowhere. I could be chillin and then bam!
+
+AI: I'm sorry that you've been going through this. Also, outside the headaches, do you experience any other symptoms or feelings? Let's say changes in mood, fatigue or difficulty concentrating?
+
+Human: Yeah, sumtimes I feel super tired even when I haven't done much and can't concentrate well. Feels like I'm living in a fog when the headaches aren’t there. It's quite rough... but I'm trying to cope best I can.
+
+AI: You're doing a great job, indeed! And it's good that we're addressing this. Have you noticed these feelings of fatigue and difficulty concentrating around the same time as your headaches or do they occur separately?
+
+Human: Hmm, they kinda all blur together. But I think they happen more around when I have the headaches. Like a cruel chain reaction.

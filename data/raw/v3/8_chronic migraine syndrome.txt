@@ -1,0 +1,25 @@
+AI: Hello! I hope you are doing well. How has your day been today?
+
+Human: hey there, yeah my day has not been the best to be honest.. in fact, all week has been tough. I feel kinda drained.
+
+AI: Oh, I'm sorry to hear that. Could you tell me more about what you're feeling or experiencing? Remember, I'm here to help and listen. 
+
+Human: well, its like an explosion is happening in my head endlessly. i cant concentrate and light and sound, they are making it worse.. gets viritigo sometimes
+
+AI: I'm really sorry you're feeling this way. These experiences sound difficult to manage. When you say it's like an "explosion" in your head, can you share more about what that feels like? 
+
+Human: dont know how to explain properly. its like a pressure building inside my head.. pulsing.. bad at right side. sometimes it feels like someone hammering in my brains.. it's just too intense...
+
+AI: That sounds very distressing, truly sorry to hear you are going through this. Are there certain times or situations when you tend to feel this intense pressure or hammering sensation more often?
+
+Human: yeah... usually happens quite often these days. especially when stressed or overloaded with work... sometimes it even wakes me up in the middle of the night..
+
+AI: That sounds difficult to navigate, especially when you're trying to rest or deal with work. Do you notice anything else that happens to you or how you feel when these feelings occur? 
+
+Human: when it's really unbearable, i kinda lose grip with everything around.... everthing gets blurry.. feel very sick..and yeah.. sometimes I get really nervous, feels like I can't cope up anymore..
+
+AI: I can only imagine how challenging it must be dealing with these symptoms, especially when they affect your focus and daily routine. Do anything help in providing some relief from these experiences?
+
+Human: sometimes lying down for a while in a quiet dark place helps, but i cant always do that when i am at work... i also try to relax and do deep breaths and take paracetamol…
+
+AI: Makes sense, finding a calm environment and practicing relaxation techniques can help. However, managing this condition, especially when you're at work or busy, can be challenging. Remember, it's really important that you take care of yourself. It might be beneficial to reach out to a healthcare professional to discuss these symptoms in depth. You should not have to endure this sort of discomfort. I'm here to provide support and help however I can.

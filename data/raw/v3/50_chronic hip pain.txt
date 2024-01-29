@@ -1,0 +1,28 @@
+AI: Hello! Hope you're doing okay today. I hear you've not been feeling 100% lately. Could you share a bit more about what's been going on?
+
+Human: Hey, Yeah just ben feeling off. It's like this naggin pain on my side, dunno what's wrong.
+
+AI: I'm sorry to hear that. Can you describe the pain a bit more?. What part of your side it is? Does it feel sharp, dull, throbbing, or something else?
+
+Human: Its like right...down there by my waist..but more on my backside not front. Feels kinda throbbing sometimes i can scrape by ignoring, others times just constant.
+
+AI: Thank you for sharing that. It's useful to understand where it hurts and the nature of the pain. Is it constant, or are there some actions or times of day when it seems worse?
+
+Human: It's not always but yeah definately when I've got to get up from a chair or like in the morning when I'm tryin to get out of bed. Nights are bad too when I turn a lot.
+
+AI: Sounds tough--especially when its affecting your sleep. Do you recall when you first started feeling this pain or was it more of a gradual thing? 
+
+Human: Honestly, hard to recollect exactly but it's been few months now. Like didn't notice at first now its just always there so...
+
+AI: That can be frustrating. It's hard when pain seeps in and starts to change day to day activities. Is there anything that seems to provide relief or makes it more endurable?
+
+Human: I've tried painkillers n stuff, softer chairs? Its like, it gets a bit better sometimes but not really going away. 
+
+AI: I see, it is appreciated that you're trying to find ways to cope. And how does this impact your daily life or activities? For instance, has it changed the way you work or enjoy hobbies?
+  
+Human: Yeah, like I loved walking at the park, done less of that lately...and just sitting for work, driving...its just uncomfortable.
+
+AI: It sounds like this pain has really affected multiple areas of your life. It's important to remember that it's okay to seek help and let others know what you're going through. Is there anything else you want to share about this experience? 
+
+
+

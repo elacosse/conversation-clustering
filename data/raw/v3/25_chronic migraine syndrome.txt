@@ -1,0 +1,15 @@
+AI: Hi there! How have you been feeling lately? Any specific concerns or problems that you'd like to discuss?
+
+Human: hey, actually yah. i been having these terrible headaches, they get so bad sumtimes and it's like pain just goes on for hours.
+
+AI: I'm sorry to hear that you're going through this. Can you describe what these headaches feel like? And when do they usually occur?
+
+Human: its like really intense pain mostly around my temples sometimes at back of head. I can barely concentrate and generally feel kinda sick. it tends to happen unexpectedly and those times are hell.
+
+AI: I see, that does sound very challenging. When you mention it happens unexpectedly, does this mean there is no pattern, or do you notice it more on some days compared to others?
+
+Human: dey r probabaly worse in mornings sometimes but not really a clear pattern. Ugh.
+
+AI: That does sound really tough, especially if it's so unpredictable. How does this pain affect your everyday life or routines? Is there anything specific you avoid or do to try and minimize the discomfort?
+
+Human: tbh it's really made my life hard. I haven't been able to work properly, keep missing out social stuff as well. sometimes I just avoid loud noise and bright lights though it does not always help.

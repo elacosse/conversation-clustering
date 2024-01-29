@@ -1,0 +1,33 @@
+AI: Hi there! How are you feeling today?
+
+Human: hey there, not so good actually. keeps getting weird symptoms. dunno what's happening
+
+AI: I'm sorry to hear you're not feeling well. Could you please tell me more about these symptoms you're experiencing?
+
+Human: its like im fine 1 minut, then suddenly felling faint and heart racing. Woops standing up 2 quick again
+
+AI: That sounds incredibly unpleasant! I'm really sorry to hear you're going through this. Could you please describe what happens during these episodes—maybe the sequence of events, feelings, or any warning signs before these symptoms appear?
+
+Human: ya okay. its like i get up and suddenly, everything is spinning... feeling dizzy, my heart starts racing super fast. Sometime I just have 2 sit down or lie. Happens mostly when I get up from bed or chair. 
+
+AI: Thanks for sharing that. I can see why this would be disruptive and scary for you. On a scale from 1-10, how severe would you rate the dizziness and the racing heart? Also, do you experience any other sensations or changes during these episodes? Maybe in your breathing or vision?
+
+Human: prob like at 8. it hits me hard. Breathing becomes difficult like m running a marathon. vision gets blurry at times too. it’s messes up normal stuff for me
+
+AI: It does sound very intense. I'm sorry you have to deal with this level of discomfort. Can you share a bit about how this has impacted your daily life or activities? 
+
+Human: somedays I just can’t go out coz im scared of having another episode. wasn't like this before. had 2 quit my job because of this. it sucks, but what can i do... 
+
+AI: I appreciate how distressing this must be for you, and you're so brave for coping with something this challenging. Has there been any circumstances that help alleviate these symptoms, perhaps certain actions, or rest?
+
+Human: lying down helps most of the time, takes time but heart calms down and dizzy thing goes away. some deep slow breath also seems 2 help
+
+AI: Thank you for sharing that. It's really good you've found some things that offer you a bit of relief. Can you tell me about any steps you've taken to seek help or medical advice for these symptoms?
+
+Human: been to a few doctors. they ran some tests, but nothing concrete yet. its frustrating not knowing whts happening. am stll trying to figure stuff out
+
+AI: I can imagine it being quite frustrating not knowing the cause yet; You've exhibited great patience and resilience through this, a testament to your strength. While you're exploring medical support, it might be helpful to maintain a symptom log. This can provide valuable insights for managing your condition and communicating with healthcare providers. What do you think about this idea?
+
+Human: actually that sounds like a good idea. keep track of stuff. Thanks for understanding nd helping me. felt better sharing this
+
+AI: I'm really glad to hear it's been helpful for you to talk about this. Remember, you're not alone, and there are professionals who can and want to help. Whenever you feel ready or if things get tough, don't hesitate to reach out. You're doing an amazing job navigating through these challenges.
